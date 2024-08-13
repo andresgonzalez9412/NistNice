@@ -1,0 +1,5583 @@
+{
+"select * from WorkTask wt ": [
+	{
+		"Id" : 1,
+		"Code" : "T0001",
+		"Description" : "Acquire and manage the necessary resources, including leadership support, financial resources, and key security personnel, to support information technology (IT) security goals and objectives and reduce overall organizational risk."
+	},
+	{
+		"Id" : 2,
+		"Code" : "T0002",
+		"Description" : "Acquire necessary resources, including financial resources, to conduct an effective enterprise continuity of operations program."
+	},
+	{
+		"Id" : 3,
+		"Code" : "T0003",
+		"Description" : "Advise senior management (e.g., Chief Information Officer [CIO]) on risk levels and security posture."
+	},
+	{
+		"Id" : 4,
+		"Code" : "T0004",
+		"Description" : "Advise senior management (e.g., CIO) on cost\/benefit analysis of information security programs, policies, processes, systems, and elements."
+	},
+	{
+		"Id" : 5,
+		"Code" : "T0005",
+		"Description" : "Advise appropriate senior leadership or Authorizing Official of changes affecting the organization's cybersecurity posture."
+	},
+	{
+		"Id" : 6,
+		"Code" : "T0006",
+		"Description" : "Advocate organization's official position in legal and legislative proceedings."
+	},
+	{
+		"Id" : 7,
+		"Code" : "T0007",
+		"Description" : "Analyze and define data requirements and specifications."
+	},
+	{
+		"Id" : 8,
+		"Code" : "T0008",
+		"Description" : "Analyze and plan for anticipated changes in data capacity requirements."
+	},
+	{
+		"Id" : 9,
+		"Code" : "T0009",
+		"Description" : "Analyze information to determine, recommend, and plan the development of a new application or modification of an existing application."
+	},
+	{
+		"Id" : 10,
+		"Code" : "T0010",
+		"Description" : "Analyze organization's cyber defense policies and configurations and evaluate compliance with regulations and organizational directives."
+	},
+	{
+		"Id" : 11,
+		"Code" : "T0011",
+		"Description" : "Analyze user needs and software requirements to determine feasibility of design within time and cost constraints."
+	},
+	{
+		"Id" : 12,
+		"Code" : "T0012",
+		"Description" : "Analyze design constraints, analyze trade-offs and detailed system and security design, and consider life cycle support."
+	},
+	{
+		"Id" : 13,
+		"Code" : "T0013",
+		"Description" : "Apply coding and testing standards, apply security testing tools including \"'fuzzing\" static-analysis code scanning tools, and conduct code reviews."
+	},
+	{
+		"Id" : 14,
+		"Code" : "T0014",
+		"Description" : "Apply secure code documentation."
+	},
+	{
+		"Id" : 15,
+		"Code" : "T0015",
+		"Description" : "Apply security policies to applications that interface with one another, such as Business-to-Business (B2B) applications."
+	},
+	{
+		"Id" : 16,
+		"Code" : "T0016",
+		"Description" : "Apply security policies to meet security objectives of the system."
+	},
+	{
+		"Id" : 17,
+		"Code" : "T0017",
+		"Description" : "Apply service-oriented security architecture principles to meet organization's confidentiality, integrity, and availability requirements."
+	},
+	{
+		"Id" : 18,
+		"Code" : "T0018",
+		"Description" : "Assess the effectiveness of cybersecurity measures utilized by system(s)."
+	},
+	{
+		"Id" : 19,
+		"Code" : "T0019",
+		"Description" : "Assess threats to and vulnerabilities of computer system(s) to develop a security risk profile."
+	},
+	{
+		"Id" : 20,
+		"Code" : "T0020",
+		"Description" : "Develop content for cyber defense tools."
+	},
+	{
+		"Id" : 21,
+		"Code" : "T0021",
+		"Description" : "Build, test, and modify product prototypes using working models or theoretical models."
+	},
+	{
+		"Id" : 22,
+		"Code" : "T0022",
+		"Description" : "Capture security controls used during the requirements phase to integrate security within the process, to identify key security objectives, and to maximize software security while minimizing disruption to plans and schedules."
+	},
+	{
+		"Id" : 23,
+		"Code" : "T0023",
+		"Description" : "Characterize and analyze network traffic to identify anomalous activity and potential threats to network resources."
+	},
+	{
+		"Id" : 24,
+		"Code" : "T0024",
+		"Description" : "Collect and maintain data needed to meet system cybersecurity reporting."
+	},
+	{
+		"Id" : 25,
+		"Code" : "T0025",
+		"Description" : "Communicate the value of information technology (IT) security throughout all levels of the organization stakeholders."
+	},
+	{
+		"Id" : 26,
+		"Code" : "T0026",
+		"Description" : "Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program."
+	},
+	{
+		"Id" : 27,
+		"Code" : "T0027",
+		"Description" : "Conduct analysis of log files, evidence, and other information to determine best methods for identifying the perpetrator(s) of a network intrusion."
+	},
+	{
+		"Id" : 28,
+		"Code" : "T0028",
+		"Description" : "Conduct and\/or support authorized penetration testing on enterprise network assets."
+	},
+	{
+		"Id" : 29,
+		"Code" : "T0029",
+		"Description" : "Conduct functional and connectivity testing to ensure continuing operability."
+	},
+	{
+		"Id" : 30,
+		"Code" : "T0030",
+		"Description" : "Conduct interactive training exercises to create an effective learning environment."
+	},
+	{
+		"Id" : 31,
+		"Code" : "T0031",
+		"Description" : "Conduct interviews of victims and witnesses and conduct interviews or interrogations of suspects."
+	},
+	{
+		"Id" : 32,
+		"Code" : "T0032",
+		"Description" : "Conduct Privacy Impact Assessments (PIAs) of the application’s security design for the appropriate security controls, which protect the confidentiality and integrity of Personally Identifiable Information (PII)."
+	},
+	{
+		"Id" : 33,
+		"Code" : "T0033",
+		"Description" : "Conduct risk analysis, feasibility study, and\/or trade-off analysis to develop, document, and refine functional requirements and specifications."
+	},
+	{
+		"Id" : 34,
+		"Code" : "T0034",
+		"Description" : "Confer with systems analysts, engineers, programmers, and others to design application and to obtain information on project limitations and capabilities, performance requirements, and interfaces."
+	},
+	{
+		"Id" : 35,
+		"Code" : "T0035",
+		"Description" : "Configure and optimize network hubs, routers, and switches (e.g., higher-level protocols, tunneling)."
+	},
+	{
+		"Id" : 36,
+		"Code" : "T0036",
+		"Description" : "Confirm what is known about an intrusion and discover new information, if possible, after identifying intrusion via dynamic analysis."
+	},
+	{
+		"Id" : 37,
+		"Code" : "T0037",
+		"Description" : "Construct access paths to suites of information (e.g., link pages) to facilitate access by end-users."
+	},
+	{
+		"Id" : 38,
+		"Code" : "T0038",
+		"Description" : "Develop threat model based on customer interviews and requirements."
+	},
+	{
+		"Id" : 39,
+		"Code" : "T0039",
+		"Description" : "Consult with customers to evaluate functional requirements."
+	},
+	{
+		"Id" : 40,
+		"Code" : "T0040",
+		"Description" : "Consult with engineering staff to evaluate interface between hardware and software."
+	},
+	{
+		"Id" : 41,
+		"Code" : "T0041",
+		"Description" : "Coordinate and provide expert technical support to enterprise-wide cyber defense technicians to resolve cyber defense incidents."
+	},
+	{
+		"Id" : 42,
+		"Code" : "T0042",
+		"Description" : "Coordinate with Cyber Defense Analysts to manage and administer the updating of rules and signatures (e.g., intrusion detection\/protection systems, antivirus, and content blacklists) for specialized cyber defense applications."
+	},
+	{
+		"Id" : 43,
+		"Code" : "T0043",
+		"Description" : "Coordinate with enterprise-wide cyber defense staff to validate network alerts."
+	},
+	{
+		"Id" : 44,
+		"Code" : "T0044",
+		"Description" : "Collaborate with stakeholders to establish the enterprise continuity of operations program, strategy, and mission assurance."
+	},
+	{
+		"Id" : 45,
+		"Code" : "T0045",
+		"Description" : "Coordinate with systems architects and developers, as needed, to provide oversight in the development of design solutions."
+	},
+	{
+		"Id" : 46,
+		"Code" : "T0046",
+		"Description" : "Correct errors by making appropriate changes and rechecking the program to ensure that desired results are produced."
+	},
+	{
+		"Id" : 47,
+		"Code" : "T0047",
+		"Description" : "Correlate incident data to identify specific vulnerabilities and make recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 48,
+		"Code" : "T0048",
+		"Description" : "Create a forensically sound duplicate of the evidence (i.e., forensic image) that ensures the original evidence is not unintentionally modified, to use for data recovery and analysis processes. This includes, but is not limited to, hard drives, floppy diskettes, CDs, PDAs, mobile phones, GPS, and all tape formats."
+	},
+	{
+		"Id" : 49,
+		"Code" : "T0049",
+		"Description" : "Decrypt seized data using technical means."
+	},
+	{
+		"Id" : 50,
+		"Code" : "T0050",
+		"Description" : "Define and prioritize essential system capabilities or business functions required for partial or full system restoration after a catastrophic failure event."
+	},
+	{
+		"Id" : 51,
+		"Code" : "T0051",
+		"Description" : "Define appropriate levels of system availability based on critical system functions and ensure that system requirements identify appropriate disaster recovery and continuity of operations requirements to include any appropriate fail-over\/alternate site requirements, backup ,requirements, and material supportability requirements for system recover\/restoration."
+	},
+	{
+		"Id" : 52,
+		"Code" : "T0052",
+		"Description" : "Define project scope and objectives based on customer requirements."
+	},
+	{
+		"Id" : 53,
+		"Code" : "T0053",
+		"Description" : "Design and develop cybersecurity or cybersecurity-enabled products."
+	},
+	{
+		"Id" : 54,
+		"Code" : "T0054",
+		"Description" : "Design group policies and access control lists to ensure compatibility with organizational standards, business rules, and needs."
+	},
+	{
+		"Id" : 55,
+		"Code" : "T0055",
+		"Description" : "Design hardware, operating systems, and software applications to adequately address cybersecurity requirements."
+	},
+	{
+		"Id" : 56,
+		"Code" : "T0056",
+		"Description" : "Design or integrate appropriate data backup capabilities into overall system designs, and ensure that appropriate technical and procedural processes exist for secure system backups and protected storage of backup data."
+	},
+	{
+		"Id" : 57,
+		"Code" : "T0057",
+		"Description" : "Design, develop, and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design."
+	},
+	{
+		"Id" : 58,
+		"Code" : "T0058",
+		"Description" : "Determine level of assurance of developed capabilities based on test results."
+	},
+	{
+		"Id" : 59,
+		"Code" : "T0059",
+		"Description" : "Develop a plan to investigate alleged crime, violation, or suspicious activity utilizing computers and the Internet."
+	},
+	{
+		"Id" : 60,
+		"Code" : "T0060",
+		"Description" : "Develop an understanding of the needs and requirements of information end-users."
+	},
+	{
+		"Id" : 61,
+		"Code" : "T0061",
+		"Description" : "Develop and direct system testing and validation procedures and documentation."
+	},
+	{
+		"Id" : 62,
+		"Code" : "T0062",
+		"Description" : "Develop and document requirements, capabilities, and constraints for design procedures and processes."
+	},
+	{
+		"Id" : 63,
+		"Code" : "T0063",
+		"Description" : "Develop and document systems administration standard operating procedures."
+	},
+	{
+		"Id" : 64,
+		"Code" : "T0064",
+		"Description" : "Review and validate data mining and data warehousing programs, processes, and requirements."
+	},
+	{
+		"Id" : 65,
+		"Code" : "T0065",
+		"Description" : "Develop and implement network backup and recovery procedures."
+	},
+	{
+		"Id" : 66,
+		"Code" : "T0066",
+		"Description" : "Develop and maintain strategic plans."
+	},
+	{
+		"Id" : 67,
+		"Code" : "T0067",
+		"Description" : "Develop architectures or system components consistent with technical specifications."
+	},
+	{
+		"Id" : 68,
+		"Code" : "T0068",
+		"Description" : "Develop data standards, policies, and procedures."
+	},
+	{
+		"Id" : 69,
+		"Code" : "T0069",
+		"Description" : "Develop detailed security design documentation for component and interface specifications to support system design and development."
+	},
+	{
+		"Id" : 70,
+		"Code" : "T0070",
+		"Description" : "Develop Disaster Recovery and Continuity of Operations plans for systems under development and ensure testing prior to systems entering a production environment."
+	},
+	{
+		"Id" : 71,
+		"Code" : "T0071",
+		"Description" : "Develop\/integrate cybersecurity designs for systems and networks with multilevel security requirements or requirements for the processing of multiple classification levels of data primarily applicable to government organizations (e.g., UNCLASSIFIED, SECRET, and TOP SECRET)."
+	},
+	{
+		"Id" : 72,
+		"Code" : "T0072",
+		"Description" : "Develop methods to monitor and measure risk, compliance, and assurance efforts."
+	},
+	{
+		"Id" : 73,
+		"Code" : "T0073",
+		"Description" : "Develop new or identify existing awareness and training materials that are appropriate for intended audiences."
+	},
+	{
+		"Id" : 74,
+		"Code" : "T0074",
+		"Description" : "Develop policy, programs, and guidelines for implementation."
+	},
+	{
+		"Id" : 75,
+		"Code" : "T0075",
+		"Description" : "Provide technical summary of findings in accordance with established reporting procedures."
+	},
+	{
+		"Id" : 76,
+		"Code" : "T0076",
+		"Description" : "Develop risk mitigation strategies to resolve vulnerabilities and recommend security changes to system or system components as needed."
+	},
+	{
+		"Id" : 77,
+		"Code" : "T0077",
+		"Description" : "Develop secure code and error handling."
+	},
+	{
+		"Id" : 78,
+		"Code" : "T0078",
+		"Description" : "Develop specific cybersecurity countermeasures and risk mitigation strategies for systems and\/or applications."
+	},
+	{
+		"Id" : 79,
+		"Code" : "T0079",
+		"Description" : "Develop specifications to ensure that risk, compliance, and assurance efforts conform with security, resilience, and dependability requirements at the software application, system, and network environment level."
+	},
+	{
+		"Id" : 80,
+		"Code" : "T0080",
+		"Description" : "Develop test plans to address specifications and requirements."
+	},
+	{
+		"Id" : 81,
+		"Code" : "T0081",
+		"Description" : "Diagnose network connectivity problem."
+	},
+	{
+		"Id" : 82,
+		"Code" : "T0082",
+		"Description" : "Document and address organization's information security, cybersecurity architecture, and systems security engineering requirements throughout the acquisition life cycle."
+	},
+	{
+		"Id" : 83,
+		"Code" : "T0083",
+		"Description" : "Draft statements of preliminary or residual security risks for system operation."
+	},
+	{
+		"Id" : 84,
+		"Code" : "T0084",
+		"Description" : "Employ secure configuration management processes."
+	},
+	{
+		"Id" : 85,
+		"Code" : "T0085",
+		"Description" : "Ensure all systems security operations and maintenance activities are properly documented and updated as necessary."
+	},
+	{
+		"Id" : 86,
+		"Code" : "T0086",
+		"Description" : "Ensure that the application of security patches for commercial products integrated into system design meet the timelines dictated by the management authority for the intended operational environment."
+	},
+	{
+		"Id" : 87,
+		"Code" : "T0087",
+		"Description" : "Ensure that chain of custody is followed for all digital media acquired in accordance with the Federal Rules of Evidence."
+	},
+	{
+		"Id" : 88,
+		"Code" : "T0088",
+		"Description" : "Ensure that cybersecurity-enabled products or other compensating security control technologies reduce identified risk to an acceptable level."
+	},
+	{
+		"Id" : 89,
+		"Code" : "T0089",
+		"Description" : "Ensure that security improvement actions are evaluated, validated, and implemented as required."
+	},
+	{
+		"Id" : 90,
+		"Code" : "T0090",
+		"Description" : "Ensure that acquired or developed system(s) and architecture(s) are consistent with organization's cybersecurity architecture guidelines."
+	},
+	{
+		"Id" : 91,
+		"Code" : "T0091",
+		"Description" : "Ensure that cybersecurity inspections, tests, and reviews are coordinated for the network environment."
+	},
+	{
+		"Id" : 92,
+		"Code" : "T0092",
+		"Description" : "Ensure that cybersecurity requirements are integrated into the continuity planning for that system and\/or organization(s)."
+	},
+	{
+		"Id" : 93,
+		"Code" : "T0093",
+		"Description" : "Ensure that protection and detection capabilities are acquired or developed using the IS security engineering approach and are consistent with organization-level cybersecurity architecture."
+	},
+	{
+		"Id" : 94,
+		"Code" : "T0094",
+		"Description" : "Establish and maintain communication channels with stakeholders."
+	},
+	{
+		"Id" : 95,
+		"Code" : "T0095",
+		"Description" : "Establish overall enterprise information security architecture (EISA) with the organization’s overall security strategy."
+	},
+	{
+		"Id" : 96,
+		"Code" : "T0096",
+		"Description" : "Establish relationships, if applicable, between the incident response team and other groups, both internal (e.g., legal department) and external (e.g., law enforcement agencies, vendors, public relations professionals)."
+	},
+	{
+		"Id" : 97,
+		"Code" : "T0097",
+		"Description" : "Evaluate and approve development efforts to ensure that baseline security safeguards are appropriately installed."
+	},
+	{
+		"Id" : 98,
+		"Code" : "T0098",
+		"Description" : "Evaluate contracts to ensure compliance with funding, legal, and program requirements."
+	},
+	{
+		"Id" : 99,
+		"Code" : "T0099",
+		"Description" : "Evaluate cost\/benefit, economic, and risk analysis in decision-making process."
+	},
+	{
+		"Id" : 100,
+		"Code" : "T0100",
+		"Description" : "Evaluate factors such as reporting formats required, cost constraints, and need for security restrictions to determine hardware configuration."
+	},
+	{
+		"Id" : 101,
+		"Code" : "T0101",
+		"Description" : "Evaluate the effectiveness and comprehensiveness of existing training programs."
+	},
+	{
+		"Id" : 102,
+		"Code" : "T0102",
+		"Description" : "Evaluate the effectiveness of laws, regulations, policies, standards, or procedures."
+	},
+	{
+		"Id" : 103,
+		"Code" : "T0103",
+		"Description" : "Examine recovered data for information of relevance to the issue at hand."
+	},
+	{
+		"Id" : 104,
+		"Code" : "T0104",
+		"Description" : "Fuse computer network attack analyses with criminal and counterintelligence investigations and operations."
+	},
+	{
+		"Id" : 105,
+		"Code" : "T0105",
+		"Description" : "Identify components or elements, allocate security functions to those elements, and describe the relationships between the elements."
+	},
+	{
+		"Id" : 106,
+		"Code" : "T0106",
+		"Description" : "Identify alternative information security strategies to address organizational security objective."
+	},
+	{
+		"Id" : 107,
+		"Code" : "T0107",
+		"Description" : "Identify and direct the remediation of technical problems encountered during testing and implementation of new systems (e.g., identify and find work-arounds for communication protocols that are not interoperable)."
+	},
+	{
+		"Id" : 108,
+		"Code" : "T0108",
+		"Description" : "Identify and prioritize critical business functions in collaboration with organizational stakeholders."
+	},
+	{
+		"Id" : 109,
+		"Code" : "T0109",
+		"Description" : "Identify and prioritize essential system functions or sub-systems required to support essential capabilities or business functions for restoration or recovery after a system failure or during a system recovery event based on overall system requirements for continuity and availability."
+	},
+	{
+		"Id" : 110,
+		"Code" : "T0110",
+		"Description" : "Identify and\/or determine whether a security incident is indicative of a violation of law that requires specific legal action."
+	},
+	{
+		"Id" : 111,
+		"Code" : "T0111",
+		"Description" : "Identify basic common coding flaws at a high level."
+	},
+	{
+		"Id" : 112,
+		"Code" : "T0112",
+		"Description" : "Identify data or intelligence of evidentiary value to support counterintelligence and criminal investigations."
+	},
+	{
+		"Id" : 113,
+		"Code" : "T0113",
+		"Description" : "Identify digital evidence for examination and analysis in such a way as to avoid unintentional alteration."
+	},
+	{
+		"Id" : 114,
+		"Code" : "T0114",
+		"Description" : "Identify elements of proof of the crime."
+	},
+	{
+		"Id" : 115,
+		"Code" : "T0115",
+		"Description" : "Identify information technology (IT) security program implications of new technologies or technology upgrades."
+	},
+	{
+		"Id" : 116,
+		"Code" : "T0116",
+		"Description" : "Identify organizational policy stakeholders."
+	},
+	{
+		"Id" : 117,
+		"Code" : "T0117",
+		"Description" : "Identify security implications and apply methodologies within centralized and decentralized environments across the enterprise’s computer systems in software development."
+	},
+	{
+		"Id" : 118,
+		"Code" : "T0118",
+		"Description" : "Identify security issues around steady state operation and management of software and incorporate security measures that must be taken when a product reaches its end of life."
+	},
+	{
+		"Id" : 119,
+		"Code" : "T0119",
+		"Description" : "Identify, assess, and recommend cybersecurity or cybersecurity-enabled products for use within a system and ensure that recommended products are in compliance with organization's evaluation and validation requirements."
+	},
+	{
+		"Id" : 120,
+		"Code" : "T0120",
+		"Description" : "Identify, collect, and seize documentary or physical evidence, to include digital media and logs associated with cyber intrusion incidents, investigations, and operations."
+	},
+	{
+		"Id" : 121,
+		"Code" : "T0121",
+		"Description" : "Implement new system design procedures, test procedures, and quality standards."
+	},
+	{
+		"Id" : 122,
+		"Code" : "T0122",
+		"Description" : "Implement security designs for new or existing system(s)."
+	},
+	{
+		"Id" : 123,
+		"Code" : "T0123",
+		"Description" : "Implement specific cybersecurity countermeasures for systems and\/or applications."
+	},
+	{
+		"Id" : 124,
+		"Code" : "T0124",
+		"Description" : "Incorporate cybersecurity vulnerability solutions into system designs (e.g., Cybersecurity Vulnerability Alerts)."
+	},
+	{
+		"Id" : 125,
+		"Code" : "T0125",
+		"Description" : "Install and maintain network infrastructure device operating system software (e.g., IOS, firmware)."
+	},
+	{
+		"Id" : 126,
+		"Code" : "T0126",
+		"Description" : "Install or replace network hubs, routers, and switches."
+	},
+	{
+		"Id" : 127,
+		"Code" : "T0127",
+		"Description" : "Integrate and align information security and\/or cybersecurity policies to ensure that system analysis meets security requirements."
+	},
+	{
+		"Id" : 128,
+		"Code" : "T0128",
+		"Description" : "Integrate automated capabilities for updating or patching system software where practical and develop processes and procedures for manual updating and patching of system software based on current and projected patch timeline requirements for the operational environment of the system."
+	},
+	{
+		"Id" : 129,
+		"Code" : "T0129",
+		"Description" : "Integrate new systems into existing network architecture."
+	},
+	{
+		"Id" : 130,
+		"Code" : "T0130",
+		"Description" : "Interface with external organizations (e.g., public affairs, law enforcement, Command or Component Inspector General) to ensure appropriate and accurate dissemination of incident and other Computer Network Defense information."
+	},
+	{
+		"Id" : 131,
+		"Code" : "T0131",
+		"Description" : "Interpret and apply laws, regulations, policies, standards, or procedures to specific issues."
+	},
+	{
+		"Id" : 132,
+		"Code" : "T0132",
+		"Description" : "Interpret and\/or approve security requirements relative to the capabilities of new information technologies."
+	},
+	{
+		"Id" : 133,
+		"Code" : "T0133",
+		"Description" : "Interpret patterns of noncompliance to determine their impact on levels of risk and\/or overall effectiveness of the enterprise’s cybersecurity program."
+	},
+	{
+		"Id" : 134,
+		"Code" : "T0134",
+		"Description" : "Lead and align information technology (IT) security priorities with the security strategy."
+	},
+	{
+		"Id" : 135,
+		"Code" : "T0135",
+		"Description" : "Lead and oversee information security budget, staffing, and contracting."
+	},
+	{
+		"Id" : 136,
+		"Code" : "T0136",
+		"Description" : "Maintain baseline system security according to organizational policies."
+	},
+	{
+		"Id" : 137,
+		"Code" : "T0137",
+		"Description" : "Maintain database management systems software."
+	},
+	{
+		"Id" : 138,
+		"Code" : "T0138",
+		"Description" : "Maintain deployable cyber defense audit toolkit (e.g., specialized cyber defense software and hardware) to support cyber defense audit missions."
+	},
+	{
+		"Id" : 139,
+		"Code" : "T0139",
+		"Description" : "Maintain directory replication services that enable information to replicate automatically from rear servers to forward units via optimized routing."
+	},
+	{
+		"Id" : 140,
+		"Code" : "T0140",
+		"Description" : "Maintain information exchanges through publish, subscribe, and alert functions that enable users to send and receive critical information as required."
+	},
+	{
+		"Id" : 141,
+		"Code" : "T0141",
+		"Description" : "Maintain information systems assurance and accreditation materials."
+	},
+	{
+		"Id" : 142,
+		"Code" : "T0142",
+		"Description" : "Maintain knowledge of applicable cyber defense policies, regulations, and compliance documents specifically related to cyber defense auditing."
+	},
+	{
+		"Id" : 143,
+		"Code" : "T0143",
+		"Description" : "Make recommendations based on test results."
+	},
+	{
+		"Id" : 144,
+		"Code" : "T0144",
+		"Description" : "Manage accounts, network rights, and access to systems and equipment."
+	},
+	{
+		"Id" : 145,
+		"Code" : "T0145",
+		"Description" : "Manage and approve Accreditation Packages (e.g., ISO\/IEC 15026-2)."
+	},
+	{
+		"Id" : 146,
+		"Code" : "T0146",
+		"Description" : "Manage the compilation, cataloging, caching, distribution, and retrieval of data."
+	},
+	{
+		"Id" : 147,
+		"Code" : "T0147",
+		"Description" : "Manage the monitoring of information security data sources to maintain organizational situational awareness."
+	},
+	{
+		"Id" : 148,
+		"Code" : "T0148",
+		"Description" : "Manage the publishing of Computer Network Defense guidance (e.g., TCNOs, Concept of Operations, Net Analyst Reports, NTSM, MTOs) for the enterprise constituency."
+	},
+	{
+		"Id" : 149,
+		"Code" : "T0149",
+		"Description" : "Manage threat or target analysis of cyber defense information and production of threat information within the enterprise."
+	},
+	{
+		"Id" : 150,
+		"Code" : "T0150",
+		"Description" : "Monitor and evaluate a system's compliance with information technology (IT) security, resilience, and dependability requirements."
+	},
+	{
+		"Id" : 151,
+		"Code" : "T0151",
+		"Description" : "Monitor and evaluate the effectiveness of the enterprise's cybersecurity safeguards to ensure that they provide the intended level of protection."
+	},
+	{
+		"Id" : 152,
+		"Code" : "T0152",
+		"Description" : "Monitor and maintain databases to ensure optimal performance."
+	},
+	{
+		"Id" : 153,
+		"Code" : "T0153",
+		"Description" : "Monitor network capacity and performance."
+	},
+	{
+		"Id" : 154,
+		"Code" : "T0154",
+		"Description" : "Monitor and report the usage of knowledge management assets and resources."
+	},
+	{
+		"Id" : 155,
+		"Code" : "T0155",
+		"Description" : "Document and escalate incidents (including event’s history, status, and potential impact for further action) that may cause ongoing and immediate impact to the environment."
+	},
+	{
+		"Id" : 156,
+		"Code" : "T0156",
+		"Description" : "Oversee and make recommendations regarding configuration management."
+	},
+	{
+		"Id" : 157,
+		"Code" : "T0157",
+		"Description" : "Oversee the information security training and awareness program."
+	},
+	{
+		"Id" : 158,
+		"Code" : "T0158",
+		"Description" : "Participate in an information security risk assessment during the Security Assessment and Authorization process."
+	},
+	{
+		"Id" : 159,
+		"Code" : "T0159",
+		"Description" : "Participate in the development or modification of the computer environment cybersecurity program plans and requirements."
+	},
+	{
+		"Id" : 160,
+		"Code" : "T0160",
+		"Description" : "Patch network vulnerabilities to ensure that information is safeguarded against outside parties."
+	},
+	{
+		"Id" : 161,
+		"Code" : "T0161",
+		"Description" : "Perform analysis of log files from a variety of sources (e.g., individual host logs, network traffic logs, firewall logs, and intrusion detection system [IDS] logs) to identify possible threats to network security."
+	},
+	{
+		"Id" : 162,
+		"Code" : "T0162",
+		"Description" : "Perform backup and recovery of databases to ensure data integrity."
+	},
+	{
+		"Id" : 163,
+		"Code" : "T0163",
+		"Description" : "Perform cyber defense incident triage, to include determining scope, urgency, and potential impact, identifying the specific vulnerability, and making recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 164,
+		"Code" : "T0164",
+		"Description" : "Perform cyber defense trend analysis and reporting."
+	},
+	{
+		"Id" : 165,
+		"Code" : "T0165",
+		"Description" : "Perform dynamic analysis to boot an “image” of a drive (without necessarily having the original drive) to see the intrusion as the user may have seen it, in a native environment."
+	},
+	{
+		"Id" : 166,
+		"Code" : "T0166",
+		"Description" : "Perform event correlation using information gathered from a variety of sources within the enterprise to gain situational awareness and determine the effectiveness of an observed attack."
+	},
+	{
+		"Id" : 167,
+		"Code" : "T0167",
+		"Description" : "Perform file signature analysis."
+	},
+	{
+		"Id" : 168,
+		"Code" : "T0168",
+		"Description" : "Perform hash comparison against established database."
+	},
+	{
+		"Id" : 169,
+		"Code" : "T0169",
+		"Description" : "Perform cybersecurity testing of developed applications and\/or systems."
+	},
+	{
+		"Id" : 170,
+		"Code" : "T0170",
+		"Description" : "Perform initial, forensically sound collection of images and inspect to discern possible mitigation\/remediation on enterprise systems."
+	},
+	{
+		"Id" : 171,
+		"Code" : "T0171",
+		"Description" : "Perform integrated quality assurance testing for security functionality and resiliency attack."
+	},
+	{
+		"Id" : 172,
+		"Code" : "T0172",
+		"Description" : "Perform real-time forensic analysis (e.g., using Helix in conjunction with LiveView)."
+	},
+	{
+		"Id" : 173,
+		"Code" : "T0173",
+		"Description" : "Perform timeline analysis."
+	},
+	{
+		"Id" : 174,
+		"Code" : "T0174",
+		"Description" : "Perform needs analysis to determine opportunities for new and improved business process solutions."
+	},
+	{
+		"Id" : 175,
+		"Code" : "T0175",
+		"Description" : "Perform real-time cyber defense incident handling (e.g., forensic collections, intrusion correlation and tracking, threat analysis, and direct system remediation) tasks to support deployable Incident Response Teams (IRTs)."
+	},
+	{
+		"Id" : 176,
+		"Code" : "T0176",
+		"Description" : "Perform secure programming and identify potential flaws in codes to mitigate vulnerabilities."
+	},
+	{
+		"Id" : 177,
+		"Code" : "T0177",
+		"Description" : "Perform security reviews, identify gaps in security architecture, and develop a security risk management plan."
+	},
+	{
+		"Id" : 178,
+		"Code" : "T0178",
+		"Description" : "Perform security reviews and identify security gaps in security architecture resulting in recommendations for inclusion in the risk mitigation strategy."
+	},
+	{
+		"Id" : 179,
+		"Code" : "T0179",
+		"Description" : "Perform static media analysis."
+	},
+	{
+		"Id" : 180,
+		"Code" : "T0180",
+		"Description" : "Perform system administration on specialized cyber defense applications and systems (e.g., antivirus, audit and remediation) or Virtual Private Network (VPN) devices, to include installation, configuration, maintenance, backup, and restoration."
+	},
+	{
+		"Id" : 181,
+		"Code" : "T0181",
+		"Description" : "Perform risk analysis (e.g., threat, vulnerability, and probability of occurrence) whenever an application or system undergoes a major change."
+	},
+	{
+		"Id" : 182,
+		"Code" : "T0182",
+		"Description" : "Perform tier 1, 2, and 3 malware analysis."
+	},
+	{
+		"Id" : 183,
+		"Code" : "T0183",
+		"Description" : "Perform validation steps, comparing actual results with expected results and analyze the differences to identify impact and risks."
+	},
+	{
+		"Id" : 184,
+		"Code" : "T0184",
+		"Description" : "Plan and conduct security authorization reviews and assurance case development for initial installation of systems and networks."
+	},
+	{
+		"Id" : 185,
+		"Code" : "T0185",
+		"Description" : "Plan and manage the delivery of knowledge management projects."
+	},
+	{
+		"Id" : 186,
+		"Code" : "T0186",
+		"Description" : "Plan, execute, and verify data redundancy and system recovery procedures."
+	},
+	{
+		"Id" : 187,
+		"Code" : "T0187",
+		"Description" : "Plan and recommend modifications or adjustments based on exercise results or system environment."
+	},
+	{
+		"Id" : 188,
+		"Code" : "T0188",
+		"Description" : "Prepare audit reports that identify technical and procedural findings, and provide recommended remediation strategies\/solutions."
+	},
+	{
+		"Id" : 189,
+		"Code" : "T0189",
+		"Description" : "Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language."
+	},
+	{
+		"Id" : 190,
+		"Code" : "T0190",
+		"Description" : "Prepare digital media for imaging by ensuring data integrity (e.g., write blockers in accordance with standard operating procedures)."
+	},
+	{
+		"Id" : 191,
+		"Code" : "T0191",
+		"Description" : "Prepare use cases to justify the need for specific information technology (IT) solutions."
+	},
+	{
+		"Id" : 192,
+		"Code" : "T0192",
+		"Description" : "Prepare, distribute, and maintain plans, instructions, guidance, and standard operating procedures concerning the security of network system(s) operations."
+	},
+	{
+		"Id" : 193,
+		"Code" : "T0193",
+		"Description" : "Process crime scenes."
+	},
+	{
+		"Id" : 194,
+		"Code" : "T0194",
+		"Description" : "Properly document all systems security implementation, operations, and maintenance activities and update as necessary."
+	},
+	{
+		"Id" : 195,
+		"Code" : "T0195",
+		"Description" : "Provide a managed flow of relevant information (via web-based portals or other means) based on mission requirements."
+	},
+	{
+		"Id" : 196,
+		"Code" : "T0196",
+		"Description" : "Provide advice on project costs, design concepts, or design changes."
+	},
+	{
+		"Id" : 197,
+		"Code" : "T0197",
+		"Description" : "Provide an accurate technical evaluation of the software application, system, or network, documenting the security posture, capabilities, and vulnerabilities against relevant cybersecurity compliances."
+	},
+	{
+		"Id" : 198,
+		"Code" : "T0198",
+		"Description" : "Provide daily summary reports of network events and activity relevant to cyber defense practices."
+	},
+	{
+		"Id" : 199,
+		"Code" : "T0199",
+		"Description" : "Provide enterprise cybersecurity and supply chain risk management guidance for development of the Continuity of Operations Plans."
+	},
+	{
+		"Id" : 200,
+		"Code" : "T0200",
+		"Description" : "Provide feedback on network requirements, including network architecture and infrastructure."
+	},
+	{
+		"Id" : 201,
+		"Code" : "T0201",
+		"Description" : "Provide guidelines for implementing developed systems to customers or installation teams."
+	},
+	{
+		"Id" : 202,
+		"Code" : "T0202",
+		"Description" : "Provide cybersecurity guidance to leadership."
+	},
+	{
+		"Id" : 203,
+		"Code" : "T0203",
+		"Description" : "Provide input on security requirements to be included in statements of work and other appropriate procurement documents."
+	},
+	{
+		"Id" : 204,
+		"Code" : "T0204",
+		"Description" : "Provide input to implementation plans and standard operating procedures."
+	},
+	{
+		"Id" : 205,
+		"Code" : "T0205",
+		"Description" : "Provide input to the Risk Management Framework process activities and related documentation (e.g., system life-cycle support plans, concept of operations, operational procedures, and maintenance training materials)."
+	},
+	{
+		"Id" : 206,
+		"Code" : "T0206",
+		"Description" : "Provide leadership and direction to information technology (IT) personnel by ensuring that cybersecurity awareness, basics, literacy, and training are provided to operations personnel commensurate with their responsibilities."
+	},
+	{
+		"Id" : 207,
+		"Code" : "T0207",
+		"Description" : "Provide ongoing optimization and problem-solving support."
+	},
+	{
+		"Id" : 208,
+		"Code" : "T0208",
+		"Description" : "Provide recommendations for possible improvements and upgrades."
+	},
+	{
+		"Id" : 209,
+		"Code" : "T0209",
+		"Description" : "Provide recommendations on data structures and databases that ensure correct and quality production of reports\/management information."
+	},
+	{
+		"Id" : 210,
+		"Code" : "T0210",
+		"Description" : "Provide recommendations on new database technologies and architectures."
+	},
+	{
+		"Id" : 211,
+		"Code" : "T0211",
+		"Description" : "Provide system-related input on cybersecurity requirements to be included in statements of work and other appropriate procurement documents."
+	},
+	{
+		"Id" : 212,
+		"Code" : "T0212",
+		"Description" : "Provide technical assistance on digital evidence matters to appropriate personnel."
+	},
+	{
+		"Id" : 213,
+		"Code" : "T0213",
+		"Description" : "Provide technical documents, incident reports, findings from computer examinations, summaries, and other situational awareness information to higher headquarters."
+	},
+	{
+		"Id" : 214,
+		"Code" : "T0214",
+		"Description" : "Receive and analyze network alerts from various sources within the enterprise and determine possible causes of such alerts."
+	},
+	{
+		"Id" : 215,
+		"Code" : "T0215",
+		"Description" : "Recognize a possible security violation and take appropriate action to report the incident, as required."
+	},
+	{
+		"Id" : 216,
+		"Code" : "T0216",
+		"Description" : "Recognize and accurately report forensic artifacts indicative of a particular operating system."
+	},
+	{
+		"Id" : 217,
+		"Code" : "T0217",
+		"Description" : "Address security implications in the software acceptance phase including completion criteria, risk acceptance and documentation, common criteria, and methods of independent testing."
+	},
+	{
+		"Id" : 218,
+		"Code" : "T0218",
+		"Description" : "Recommend new or revised security, resilience, and dependability measures based on the results of reviews."
+	},
+	{
+		"Id" : 219,
+		"Code" : "T0219",
+		"Description" : "Recommend resource allocations required to securely operate and maintain an organization’s cybersecurity requirements."
+	},
+	{
+		"Id" : 220,
+		"Code" : "T0220",
+		"Description" : "Resolve conflicts in laws, regulations, policies, standards, or procedures."
+	},
+	{
+		"Id" : 221,
+		"Code" : "T0221",
+		"Description" : "Review authorization and assurance documents to confirm that the level of risk is within acceptable limits for each software application, system, and network."
+	},
+	{
+		"Id" : 222,
+		"Code" : "T0222",
+		"Description" : "Review existing and proposed policies with stakeholders."
+	},
+	{
+		"Id" : 223,
+		"Code" : "T0223",
+		"Description" : "Review or conduct audits of information technology (IT) programs and projects."
+	},
+	{
+		"Id" : 224,
+		"Code" : "T0224",
+		"Description" : "Review training documentation (e.g., Course Content Documents [CCD], lesson plans, student texts, examinations, Schedules of Instruction [SOI], and course descriptions)."
+	},
+	{
+		"Id" : 225,
+		"Code" : "T0225",
+		"Description" : "Secure the electronic device or information source."
+	},
+	{
+		"Id" : 226,
+		"Code" : "T0226",
+		"Description" : "Serve on agency and interagency policy boards."
+	},
+	{
+		"Id" : 227,
+		"Code" : "T0227",
+		"Description" : "Recommend policy and coordinate review and approval."
+	},
+	{
+		"Id" : 228,
+		"Code" : "T0228",
+		"Description" : "Store, retrieve, and manipulate data for analysis of system capabilities and requirements."
+	},
+	{
+		"Id" : 229,
+		"Code" : "T0229",
+		"Description" : "Supervise or manage protective or corrective measures when a cybersecurity incident or vulnerability is discovered."
+	},
+	{
+		"Id" : 230,
+		"Code" : "T0230",
+		"Description" : "Support the design and execution of exercise scenarios."
+	},
+	{
+		"Id" : 231,
+		"Code" : "T0231",
+		"Description" : "Provide support to security\/certification test and evaluation activities."
+	},
+	{
+		"Id" : 232,
+		"Code" : "T0232",
+		"Description" : "Test and maintain network infrastructure including software and hardware devices."
+	},
+	{
+		"Id" : 233,
+		"Code" : "T0233",
+		"Description" : "Track and document cyber defense incidents from initial detection through final resolution."
+	},
+	{
+		"Id" : 234,
+		"Code" : "T0234",
+		"Description" : "Track audit findings and recommendations to ensure that appropriate mitigation actions are taken."
+	},
+	{
+		"Id" : 235,
+		"Code" : "T0235",
+		"Description" : "Translate functional requirements into technical solutions."
+	},
+	{
+		"Id" : 236,
+		"Code" : "T0236",
+		"Description" : "Translate security requirements into application design elements including documenting the elements of the software attack surfaces, conducting threat modeling, and defining any specific security criteria."
+	},
+	{
+		"Id" : 237,
+		"Code" : "T0237",
+		"Description" : "Troubleshoot system hardware and software."
+	},
+	{
+		"Id" : 238,
+		"Code" : "T0238",
+		"Description" : "Extract data using data carving techniques (e.g., Forensic Tool Kit [FTK], Foremost)."
+	},
+	{
+		"Id" : 239,
+		"Code" : "T0239",
+		"Description" : "Use federal and organization-specific published documents to manage operations of their computing environment system(s)."
+	},
+	{
+		"Id" : 240,
+		"Code" : "T0240",
+		"Description" : "Capture and analyze network traffic associated with malicious activities using network monitoring tools."
+	},
+	{
+		"Id" : 241,
+		"Code" : "T0241",
+		"Description" : "Use specialized equipment and techniques to catalog, document, extract, collect, package, and preserve digital evidence."
+	},
+	{
+		"Id" : 242,
+		"Code" : "T0242",
+		"Description" : "Utilize models and simulations to analyze or predict system performance under different operating conditions."
+	},
+	{
+		"Id" : 243,
+		"Code" : "T0243",
+		"Description" : "Verify and update security documentation reflecting the application\/system security design features."
+	},
+	{
+		"Id" : 244,
+		"Code" : "T0244",
+		"Description" : "Verify that application software\/network\/system security postures are implemented as stated, document deviations, and recommend required actions to correct those deviations."
+	},
+	{
+		"Id" : 245,
+		"Code" : "T0245",
+		"Description" : "Verify that the software application\/network\/system accreditation and assurance documentation is current."
+	},
+	{
+		"Id" : 246,
+		"Code" : "T0246",
+		"Description" : "Write and publish cyber defense techniques, guidance, and reports on incident findings to appropriate constituencies."
+	},
+	{
+		"Id" : 247,
+		"Code" : "T0247",
+		"Description" : "Write instructional materials (e.g., standard operating procedures, production manual) to provide detailed guidance to relevant portion of the workforce."
+	},
+	{
+		"Id" : 248,
+		"Code" : "T0248",
+		"Description" : "Promote awareness of security issues among management and ensure sound security principles are reflected in the organization's vision and goals."
+	},
+	{
+		"Id" : 249,
+		"Code" : "T0249",
+		"Description" : "Research current technology to understand capabilities of required system or network."
+	},
+	{
+		"Id" : 250,
+		"Code" : "T0250",
+		"Description" : "Identify cyber capabilities strategies for custom hardware and software development based on mission requirements."
+	},
+	{
+		"Id" : 251,
+		"Code" : "T0251",
+		"Description" : "Develop security compliance processes and\/or audits for external services (e.g., cloud service providers, data centers)."
+	},
+	{
+		"Id" : 252,
+		"Code" : "T0252",
+		"Description" : "Conduct required reviews as appropriate within environment (e.g., Technical Surveillance, Countermeasure Reviews [TSCM], TEMPEST countermeasure reviews)."
+	},
+	{
+		"Id" : 253,
+		"Code" : "T0253",
+		"Description" : "Conduct cursory binary analysis."
+	},
+	{
+		"Id" : 254,
+		"Code" : "T0254",
+		"Description" : "Oversee policy standards and implementation strategies to ensure procedures and guidelines comply with cybersecurity policies."
+	},
+	{
+		"Id" : 255,
+		"Code" : "T0255",
+		"Description" : "Participate in Risk Governance process to provide security risks, mitigations, and input on other technical risk."
+	},
+	{
+		"Id" : 256,
+		"Code" : "T0256",
+		"Description" : "Evaluate the effectiveness of procurement function in addressing information security requirements and supply chain risks through procurement activities and recommend improvements."
+	},
+	{
+		"Id" : 257,
+		"Code" : "T0257",
+		"Description" : "Determine scope, infrastructure, resources, and data sample size to ensure system requirements are adequately demonstrated."
+	},
+	{
+		"Id" : 258,
+		"Code" : "T0258",
+		"Description" : "Provide timely detection, identification, and alerting of possible attacks\/intrusions, anomalous activities, and misuse activities and distinguish these incidents and events from benign activities."
+	},
+	{
+		"Id" : 259,
+		"Code" : "T0259",
+		"Description" : "Use cyber defense tools for continual monitoring and analysis of system activity to identify malicious activity."
+	},
+	{
+		"Id" : 260,
+		"Code" : "T0260",
+		"Description" : "Analyze identified malicious activity to determine weaknesses exploited, exploitation methods, effects on system and information."
+	},
+	{
+		"Id" : 261,
+		"Code" : "T0261",
+		"Description" : "Assist in identifying, prioritizing, and coordinating the protection of critical cyber defense infrastructure and key resources."
+	},
+	{
+		"Id" : 262,
+		"Code" : "T0262",
+		"Description" : "Employ approved defense-in-depth principles and practices (e.g., defense-in-multiple places, layered defenses, security robustness)."
+	},
+	{
+		"Id" : 263,
+		"Code" : "T0263",
+		"Description" : "Identify security requirements specific to an information technology (IT) system in all phases of the system life cycle."
+	},
+	{
+		"Id" : 264,
+		"Code" : "T0264",
+		"Description" : "Ensure that plans of actions and milestones or remediation plans are in place for vulnerabilities identified during risk assessments, audits, inspections, etc."
+	},
+	{
+		"Id" : 265,
+		"Code" : "T0265",
+		"Description" : "Assure successful implementation and functionality of security requirements and appropriate information technology (IT) policies and procedures that are consistent with the organization's mission and goals."
+	},
+	{
+		"Id" : 266,
+		"Code" : "T0266",
+		"Description" : "Perform penetration testing as required for new or updated applications."
+	},
+	{
+		"Id" : 267,
+		"Code" : "T0267",
+		"Description" : "Design countermeasures and mitigations against potential exploitations of programming language weaknesses and vulnerabilities in system and elements."
+	},
+	{
+		"Id" : 268,
+		"Code" : "T0268",
+		"Description" : "Define and document how the implementation of a new system or new interfaces between systems impacts the security posture of the current environment."
+	},
+	{
+		"Id" : 269,
+		"Code" : "T0269",
+		"Description" : "Design and develop key management functions (as related to cybersecurity)."
+	},
+	{
+		"Id" : 270,
+		"Code" : "T0270",
+		"Description" : "Analyze user needs and requirements to plan and conduct system security development."
+	},
+	{
+		"Id" : 271,
+		"Code" : "T0271",
+		"Description" : "Develop cybersecurity designs to meet specific operational needs and environmental factors (e.g., access controls, automated applications, networked operations, high integrity and availability requirements, multilevel security\/processing of multiple classification levels, and processing Sensitive Compartmented Information)."
+	},
+	{
+		"Id" : 272,
+		"Code" : "T0272",
+		"Description" : "Ensure that security design and cybersecurity development activities are properly documented (providing a functional description of security implementation) and updated as necessary."
+	},
+	{
+		"Id" : 273,
+		"Code" : "T0273",
+		"Description" : "Develop and document supply chain risks for critical system elements, as appropriate."
+	},
+	{
+		"Id" : 274,
+		"Code" : "T0274",
+		"Description" : "Create auditable evidence of security measures."
+	},
+	{
+		"Id" : 275,
+		"Code" : "T0275",
+		"Description" : "Support necessary compliance activities (e.g., ensure that system security configuration guidelines are followed, compliance monitoring occurs)."
+	},
+	{
+		"Id" : 276,
+		"Code" : "T0276",
+		"Description" : "Participate in the acquisition process as necessary, following appropriate supply chain risk management practices."
+	},
+	{
+		"Id" : 277,
+		"Code" : "T0277",
+		"Description" : "Ensure that all acquisitions, procurements, and outsourcing efforts address information security requirements consistent with organization goals."
+	},
+	{
+		"Id" : 278,
+		"Code" : "T0278",
+		"Description" : "Collect intrusion artifacts (e.g., source code, malware, Trojans) and use discovered data to enable mitigation of potential cyber defense incidents within the enterprise."
+	},
+	{
+		"Id" : 279,
+		"Code" : "T0279",
+		"Description" : "Serve as technical expert and liaison to law enforcement personnel and explain incident details as required."
+	},
+	{
+		"Id" : 280,
+		"Code" : "T0280",
+		"Description" : "Continuously validate the organization against policies\/guidelines\/procedures\/regulations\/laws to ensure compliance."
+	},
+	{
+		"Id" : 281,
+		"Code" : "T0281",
+		"Description" : "Forecast ongoing service demands and ensure that security assumptions are reviewed as necessary."
+	},
+	{
+		"Id" : 282,
+		"Code" : "T0282",
+		"Description" : "Define and\/or implement policies and procedures to ensure protection of critical infrastructure as appropriate."
+	},
+	{
+		"Id" : 283,
+		"Code" : "T0283",
+		"Description" : "Collaborate with stakeholders to identify and\/or develop appropriate solutions technology."
+	},
+	{
+		"Id" : 284,
+		"Code" : "T0284",
+		"Description" : "Design and develop new tools\/technologies as related to cybersecurity."
+	},
+	{
+		"Id" : 285,
+		"Code" : "T0285",
+		"Description" : "Perform virus scanning on digital media."
+	},
+	{
+		"Id" : 286,
+		"Code" : "T0286",
+		"Description" : "Perform file system forensic analysis."
+	},
+	{
+		"Id" : 287,
+		"Code" : "T0287",
+		"Description" : "Perform static analysis to mount an \"image\" of a drive (without necessarily having the original drive)."
+	},
+	{
+		"Id" : 288,
+		"Code" : "T0288",
+		"Description" : "Perform static malware analysis."
+	},
+	{
+		"Id" : 289,
+		"Code" : "T0289",
+		"Description" : "Utilize deployable forensics toolkit to support operations as necessary."
+	},
+	{
+		"Id" : 290,
+		"Code" : "T0290",
+		"Description" : "Determine tactics, techniques, and procedures (TTPs) for intrusion sets."
+	},
+	{
+		"Id" : 291,
+		"Code" : "T0291",
+		"Description" : "Examine network topologies to understand data flows through the network."
+	},
+	{
+		"Id" : 292,
+		"Code" : "T0292",
+		"Description" : "Recommend computing environment vulnerability corrections."
+	},
+	{
+		"Id" : 293,
+		"Code" : "T0293",
+		"Description" : "Identify and analyze anomalies in network traffic using metadata."
+	},
+	{
+		"Id" : 294,
+		"Code" : "T0294",
+		"Description" : "Conduct research, analysis, and correlation across a wide variety of all source data sets (indications and warnings)."
+	},
+	{
+		"Id" : 295,
+		"Code" : "T0295",
+		"Description" : "Validate intrusion detection system (IDS) alerts against network traffic using packet analysis tools."
+	},
+	{
+		"Id" : 296,
+		"Code" : "T0296",
+		"Description" : "Isolate and remove malware."
+	},
+	{
+		"Id" : 297,
+		"Code" : "T0297",
+		"Description" : "Identify applications and operating systems of a network device based on network traffic."
+	},
+	{
+		"Id" : 298,
+		"Code" : "T0298",
+		"Description" : "Reconstruct a malicious attack or activity based off network traffic."
+	},
+	{
+		"Id" : 299,
+		"Code" : "T0299",
+		"Description" : "Identify network mapping and operating system (OS) fingerprinting activities."
+	},
+	{
+		"Id" : 300,
+		"Code" : "T0300",
+		"Description" : "Develop and document User Experience (UX) requirements including information architecture and user interface requirements."
+	},
+	{
+		"Id" : 301,
+		"Code" : "T0301",
+		"Description" : "Develop and implement cybersecurity independent audit processes for application software\/networks\/systems and oversee ongoing independent audits to ensure that operational and Research and Design (R&D) processes and procedures are in compliance with organizational and mandatory cybersecurity requirements and accurately followed by Systems Administrators and other cybersecurity staff when performing their day-to-day activities."
+	},
+	{
+		"Id" : 302,
+		"Code" : "T0302",
+		"Description" : "Develop contract language to ensure supply chain, system, network, and operational security are met."
+	},
+	{
+		"Id" : 303,
+		"Code" : "T0303",
+		"Description" : "Identify and leverage the enterprise-wide version control system while designing and developing secure applications."
+	},
+	{
+		"Id" : 304,
+		"Code" : "T0304",
+		"Description" : "Implement and integrate system development life cycle (SDLC) methodologies (e.g., IBM Rational Unified Process) into development environment."
+	},
+	{
+		"Id" : 305,
+		"Code" : "T0305",
+		"Description" : "Performs configuration management, problem management, capacity management, and financial management for databases and data management systems."
+	},
+	{
+		"Id" : 306,
+		"Code" : "T0306",
+		"Description" : "Supports incident management, service-level management, change management, release management, continuity management, and availability management for databases and data management systems."
+	},
+	{
+		"Id" : 307,
+		"Code" : "T0307",
+		"Description" : "Analyze candidate architectures, allocate security services, and select security mechanisms. "
+	},
+	{
+		"Id" : 308,
+		"Code" : "T0308",
+		"Description" : "Analyze incident data for emerging trends. "
+	},
+	{
+		"Id" : 309,
+		"Code" : "T0309",
+		"Description" : "Assess the effectiveness of security controls."
+	},
+	{
+		"Id" : 310,
+		"Code" : "T0310",
+		"Description" : "Assist in the construction of signatures which can be implemented on cyber defense network tools in response to new or observed threats within the network environment or enclave. "
+	},
+	{
+		"Id" : 311,
+		"Code" : "T0311",
+		"Description" : "Consult with customers about software system design and maintenance. "
+	},
+	{
+		"Id" : 312,
+		"Code" : "T0312",
+		"Description" : "Coordinate with intelligence analysts to correlate threat assessment data. "
+	},
+	{
+		"Id" : 313,
+		"Code" : "T0313",
+		"Description" : "Design and document quality standards. "
+	},
+	{
+		"Id" : 314,
+		"Code" : "T0314",
+		"Description" : "Develop a system security context, a preliminary system security Concept of Operations (CONOPS), and define baseline system security requirements in accordance with applicable cybersecurity requirements. "
+	},
+	{
+		"Id" : 315,
+		"Code" : "T0315",
+		"Description" : "Develop and deliver technical training to educate others or meet customer needs. "
+	},
+	{
+		"Id" : 316,
+		"Code" : "T0316",
+		"Description" : "Develop or assist in the development of computer based training modules or classes."
+	},
+	{
+		"Id" : 317,
+		"Code" : "T0317",
+		"Description" : "Develop or assist in the development of course assignments."
+	},
+	{
+		"Id" : 318,
+		"Code" : "T0318",
+		"Description" : "Develop or assist in the development of course evaluations."
+	},
+	{
+		"Id" : 319,
+		"Code" : "T0319",
+		"Description" : "Develop or assist in the development of grading and proficiency standards."
+	},
+	{
+		"Id" : 320,
+		"Code" : "T0320",
+		"Description" : "Assist in the development of individual\/collective development, training, and\/or remediation plans."
+	},
+	{
+		"Id" : 321,
+		"Code" : "T0321",
+		"Description" : "Develop or assist in the development of learning objectives and goals."
+	},
+	{
+		"Id" : 322,
+		"Code" : "T0322",
+		"Description" : "Develop or assist in the development of on-the-job training materials or programs."
+	},
+	{
+		"Id" : 323,
+		"Code" : "T0323",
+		"Description" : "Develop or assist in the development of written tests for measuring and assessing learner proficiency."
+	},
+	{
+		"Id" : 324,
+		"Code" : "T0324",
+		"Description" : "Direct software programming and development of documentation."
+	},
+	{
+		"Id" : 325,
+		"Code" : "T0325",
+		"Description" : "Document a system's purpose and preliminary system security concept of operations."
+	},
+	{
+		"Id" : 326,
+		"Code" : "T0326",
+		"Description" : "Employ configuration management processes. "
+	},
+	{
+		"Id" : 327,
+		"Code" : "T0327",
+		"Description" : "Evaluate network infrastructure vulnerabilities to enhance capabilities being developed."
+	},
+	{
+		"Id" : 328,
+		"Code" : "T0328",
+		"Description" : "Evaluate security architectures and designs to determine the adequacy of security design and architecture proposed or provided in response to requirements contained in acquisition documents. "
+	},
+	{
+		"Id" : 329,
+		"Code" : "T0329",
+		"Description" : "Follow software and systems engineering life cycle standards and processes."
+	},
+	{
+		"Id" : 330,
+		"Code" : "T0330",
+		"Description" : "Maintain assured message delivery systems. "
+	},
+	{
+		"Id" : 331,
+		"Code" : "T0331",
+		"Description" : "Maintain incident tracking and solution database. "
+	},
+	{
+		"Id" : 332,
+		"Code" : "T0332",
+		"Description" : "Notify designated managers, cyber incident responders, and cybersecurity service provider team members of suspected cyber incidents and articulate the event's history, status, and potential impact for further action in accordance with the organization's cyber incident response plan."
+	},
+	{
+		"Id" : 333,
+		"Code" : "T0333",
+		"Description" : "Perform cyber defense trend analysis and reporting."
+	},
+	{
+		"Id" : 334,
+		"Code" : "T0334",
+		"Description" : "Ensure that all systems components can be integrated and aligned (e.g., procedures, databases, policies, software, and hardware). "
+	},
+	{
+		"Id" : 335,
+		"Code" : "T0335",
+		"Description" : "Build, install, configure, and test dedicated cyber defense hardware. "
+	},
+	{
+		"Id" : 336,
+		"Code" : "T0336",
+		"Description" : "WITHDRAWN: Integrated with T0228"
+	},
+	{
+		"Id" : 337,
+		"Code" : "T0337",
+		"Description" : "Supervise and assign work to programmers, designers, technologists and technicians, and other engineering and scientific personnel."
+	},
+	{
+		"Id" : 338,
+		"Code" : "T0338",
+		"Description" : "Write detailed functional specifications that document the architecture development process. "
+	},
+	{
+		"Id" : 339,
+		"Code" : "T0339",
+		"Description" : "Lead efforts to promote the organization's use of knowledge management and information sharing."
+	},
+	{
+		"Id" : 340,
+		"Code" : "T0340",
+		"Description" : "Act as a primary stakeholder in the underlying information technology (IT) operational processes and functions that support the service, provide direction and monitor all significant activities so the service is delivered successfully."
+	},
+	{
+		"Id" : 341,
+		"Code" : "T0341",
+		"Description" : "Advocate for adequate funding for cyber training resources, to include both internal and industry-provided courses, instructors, and related materials."
+	},
+	{
+		"Id" : 342,
+		"Code" : "T0342",
+		"Description" : "Analyze data sources to provide actionable recommendations."
+	},
+	{
+		"Id" : 343,
+		"Code" : "T0343",
+		"Description" : "Analyze the crisis to ensure public, personal, and resource protection."
+	},
+	{
+		"Id" : 344,
+		"Code" : "T0344",
+		"Description" : "Assess all the configuration management (change configuration\/release management) processes. "
+	},
+	{
+		"Id" : 345,
+		"Code" : "T0345",
+		"Description" : "Assess effectiveness and efficiency of instruction according to ease of instructional technology use and student learning, knowledge transfer, and satisfaction."
+	},
+	{
+		"Id" : 346,
+		"Code" : "T0346",
+		"Description" : "Assess the behavior of the individual victim, witness, or suspect as it relates to the investigation."
+	},
+	{
+		"Id" : 347,
+		"Code" : "T0347",
+		"Description" : "Assess the validity of source data and subsequent findings."
+	},
+	{
+		"Id" : 348,
+		"Code" : "T0348",
+		"Description" : "Assist in assessing the impact of implementing and sustaining a dedicated cyber defense infrastructure."
+	},
+	{
+		"Id" : 349,
+		"Code" : "T0349",
+		"Description" : "Collect metrics and trending data."
+	},
+	{
+		"Id" : 350,
+		"Code" : "T0350",
+		"Description" : "Conduct a market analysis to identify, assess, and recommend commercial, Government off-the-shelf, and open source products for use within a system and ensure recommended products are in compliance with organization's evaluation and validation requirements."
+	},
+	{
+		"Id" : 351,
+		"Code" : "T0351",
+		"Description" : "Conduct hypothesis testing using statistical processes."
+	},
+	{
+		"Id" : 352,
+		"Code" : "T0352",
+		"Description" : "Conduct learning needs assessments and identify requirements."
+	},
+	{
+		"Id" : 353,
+		"Code" : "T0353",
+		"Description" : "Confer with systems analysts, engineers, programmers, and others to design application."
+	},
+	{
+		"Id" : 354,
+		"Code" : "T0354",
+		"Description" : "Coordinate and manage the overall service provided to a customer end-to-end."
+	},
+	{
+		"Id" : 355,
+		"Code" : "T0355",
+		"Description" : "Coordinate with internal and external subject matter experts to ensure existing qualification standards reflect organizational functional requirements and meet industry standards."
+	},
+	{
+		"Id" : 356,
+		"Code" : "T0356",
+		"Description" : "Coordinate with organizational manpower stakeholders to ensure appropriate allocation and distribution of human capital assets."
+	},
+	{
+		"Id" : 357,
+		"Code" : "T0357",
+		"Description" : "Create interactive learning exercises to create an effective learning environment."
+	},
+	{
+		"Id" : 358,
+		"Code" : "T0358",
+		"Description" : "Design and develop system administration and management functionality for privileged access users."
+	},
+	{
+		"Id" : 359,
+		"Code" : "T0359",
+		"Description" : "Design, implement, test, and evaluate secure interfaces between information systems, physical systems, and\/or embedded technologies."
+	},
+	{
+		"Id" : 360,
+		"Code" : "T0360",
+		"Description" : "Determine the extent of threats and recommend courses of action or countermeasures to mitigate risks."
+	},
+	{
+		"Id" : 361,
+		"Code" : "T0361",
+		"Description" : "Develop and facilitate data-gathering methods."
+	},
+	{
+		"Id" : 362,
+		"Code" : "T0362",
+		"Description" : "Develop and implement standardized position descriptions based on established cyber work roles."
+	},
+	{
+		"Id" : 363,
+		"Code" : "T0363",
+		"Description" : "Develop and review recruiting, hiring, and retention procedures in accordance with current HR policies."
+	},
+	{
+		"Id" : 364,
+		"Code" : "T0364",
+		"Description" : "Develop cyber career field classification structure to include establishing career field entry requirements and other nomenclature such as codes and identifiers."
+	},
+	{
+		"Id" : 365,
+		"Code" : "T0365",
+		"Description" : "Develop or assist in the development of training policies and protocols for cyber training."
+	},
+	{
+		"Id" : 366,
+		"Code" : "T0366",
+		"Description" : "Develop strategic insights from large data sets."
+	},
+	{
+		"Id" : 367,
+		"Code" : "T0367",
+		"Description" : "Develop the goals and objectives for cyber curriculum."
+	},
+	{
+		"Id" : 368,
+		"Code" : "T0368",
+		"Description" : "Ensure that cyber career fields are managed in accordance with organizational HR policies and directives."
+	},
+	{
+		"Id" : 369,
+		"Code" : "T0369",
+		"Description" : "Ensure that cyber workforce management policies and processes comply with legal and organizational requirements regarding equal opportunity, diversity, and fair hiring\/employment practices."
+	},
+	{
+		"Id" : 370,
+		"Code" : "T0370",
+		"Description" : "Ensure that appropriate Service-Level Agreements (SLAs) and underpinning contracts have been defined that clearly set out for the customer a description of the service and the measures for monitoring the service."
+	},
+	{
+		"Id" : 371,
+		"Code" : "T0371",
+		"Description" : "Establish acceptable limits for the software application, network, or system."
+	},
+	{
+		"Id" : 372,
+		"Code" : "T0372",
+		"Description" : "Establish and collect metrics to monitor and validate cyber workforce readiness including analysis of cyber workforce data to assess the status of positions identified, filled, and filled with qualified personnel."
+	},
+	{
+		"Id" : 373,
+		"Code" : "T0373",
+		"Description" : "Establish and oversee waiver processes for cyber career field entry and training qualification requirements."
+	},
+	{
+		"Id" : 374,
+		"Code" : "T0374",
+		"Description" : "Establish cyber career paths to allow career progression, deliberate development, and growth within and between cyber career fields."
+	},
+	{
+		"Id" : 375,
+		"Code" : "T0375",
+		"Description" : "Establish manpower, personnel, and qualification data element standards to support cyber workforce management and reporting requirements."
+	},
+	{
+		"Id" : 376,
+		"Code" : "T0376",
+		"Description" : "Establish, resource, implement, and assess cyber workforce management programs in accordance with organizational requirements."
+	},
+	{
+		"Id" : 377,
+		"Code" : "T0377",
+		"Description" : "Gather feedback on customer satisfaction and internal service performance to foster continual improvement."
+	},
+	{
+		"Id" : 378,
+		"Code" : "T0378",
+		"Description" : "Incorporates risk-driven systems maintenance updates process to address system deficiencies (periodically and out of cycle)."
+	},
+	{
+		"Id" : 379,
+		"Code" : "T0379",
+		"Description" : "Manage the internal relationship with information technology (IT) process owners supporting the service, assisting with the definition and agreement of Operating Level Agreements (OLAs)."
+	},
+	{
+		"Id" : 380,
+		"Code" : "T0380",
+		"Description" : "Plan instructional strategies such as lectures, demonstrations, interactive exercises, multimedia presentations, video courses, web-based courses for most effective learning environment in conjunction with educators and trainers."
+	},
+	{
+		"Id" : 381,
+		"Code" : "T0381",
+		"Description" : "Present technical information to technical and nontechnical audiences."
+	},
+	{
+		"Id" : 382,
+		"Code" : "T0382",
+		"Description" : "Present data in creative formats."
+	},
+	{
+		"Id" : 383,
+		"Code" : "T0383",
+		"Description" : "Program custom algorithms."
+	},
+	{
+		"Id" : 384,
+		"Code" : "T0384",
+		"Description" : "Promote awareness of cyber policy and strategy as appropriate among management and ensure sound principles are reflected in the organization's mission, vision, and goals."
+	},
+	{
+		"Id" : 385,
+		"Code" : "T0385",
+		"Description" : "Provide actionable recommendations to critical stakeholders based on data analysis and findings."
+	},
+	{
+		"Id" : 386,
+		"Code" : "T0386",
+		"Description" : "Provide criminal investigative support to trial counsel during the judicial process. "
+	},
+	{
+		"Id" : 387,
+		"Code" : "T0387",
+		"Description" : "Review and apply cyber career field qualification standards."
+	},
+	{
+		"Id" : 388,
+		"Code" : "T0388",
+		"Description" : "Review and apply organizational policies related to or influencing the cyber workforce."
+	},
+	{
+		"Id" : 389,
+		"Code" : "T0389",
+		"Description" : "Review service performance reports identifying any significant issues and variances, initiating, where necessary, corrective actions and ensuring that all outstanding issues are followed up."
+	},
+	{
+		"Id" : 390,
+		"Code" : "T0390",
+		"Description" : "Review\/Assess cyber workforce effectiveness to adjust skill and\/or qualification standards."
+	},
+	{
+		"Id" : 391,
+		"Code" : "T0391",
+		"Description" : "Support integration of qualified cyber workforce personnel into information systems life cycle development processes."
+	},
+	{
+		"Id" : 392,
+		"Code" : "T0392",
+		"Description" : "Utilize technical documentation or resources to implement a new mathematical, data science, or computer science method."
+	},
+	{
+		"Id" : 393,
+		"Code" : "T0393",
+		"Description" : "Validate specifications and requirements for testability."
+	},
+	{
+		"Id" : 394,
+		"Code" : "T0394",
+		"Description" : "Work with other service managers and product owners to balance and prioritize services to meet overall customer requirements, constraints, and objectives."
+	},
+	{
+		"Id" : 395,
+		"Code" : "T0395",
+		"Description" : "Write and publish after action reviews."
+	},
+	{
+		"Id" : 396,
+		"Code" : "T0396",
+		"Description" : "Process image with appropriate tools depending on analyst’s goals."
+	},
+	{
+		"Id" : 397,
+		"Code" : "T0397",
+		"Description" : "Perform Windows registry analysis. "
+	},
+	{
+		"Id" : 398,
+		"Code" : "T0398",
+		"Description" : "Perform file and registry monitoring on the running system after identifying intrusion via dynamic analysis. "
+	},
+	{
+		"Id" : 399,
+		"Code" : "T0399",
+		"Description" : "Enter media information into tracking database (e.g., Product Tracker Tool) for digital media that has been acquired. "
+	},
+	{
+		"Id" : 400,
+		"Code" : "T0400",
+		"Description" : "Correlate incident data and perform cyber defense reporting. "
+	},
+	{
+		"Id" : 401,
+		"Code" : "T0401",
+		"Description" : "Maintain deployable cyber defense toolkit (e.g., specialized cyber defense software\/hardware) to support Incident Response Team mission."
+	},
+	{
+		"Id" : 402,
+		"Code" : "T0402",
+		"Description" : "Effectively allocate storage capacity in the design of data management systems."
+	},
+	{
+		"Id" : 403,
+		"Code" : "T0403",
+		"Description" : "Read, interpret, write, modify, and execute simple scripts (e.g., Perl, VBScript) on Windows and UNIX systems (e.g., those that perform tasks such as: parsing large data files, automating manual tasks, and fetching\/processing remote data)."
+	},
+	{
+		"Id" : 404,
+		"Code" : "T0404",
+		"Description" : "Utilize different programming languages to write code, open files, read files, and write output to different files."
+	},
+	{
+		"Id" : 405,
+		"Code" : "T0405",
+		"Description" : "Utilize open source language such as R and apply quantitative techniques (e.g., descriptive and inferential statistics, sampling, experimental design, parametric and non-parametric tests of difference, ordinary least squares regression, general line)."
+	},
+	{
+		"Id" : 406,
+		"Code" : "T0406",
+		"Description" : "Ensure that design and development activities are properly documented (providing a functional description of implementation) and updated as necessary."
+	},
+	{
+		"Id" : 407,
+		"Code" : "T0407",
+		"Description" : "Participate in the acquisition process as necessary."
+	},
+	{
+		"Id" : 408,
+		"Code" : "T0408",
+		"Description" : "Interpret and apply applicable laws, statutes, and regulatory documents and integrate into policy."
+	},
+	{
+		"Id" : 409,
+		"Code" : "T0409",
+		"Description" : "Troubleshoot prototype design and process issues throughout the product design, development, and pre-launch phases."
+	},
+	{
+		"Id" : 410,
+		"Code" : "T0410",
+		"Description" : "Identify functional- and security-related features to find opportunities for new capability development to exploit or mitigate vulnerabilities."
+	},
+	{
+		"Id" : 411,
+		"Code" : "T0411",
+		"Description" : "Identify and\/or develop reverse engineering tools to enhance capabilities and detect vulnerabilities."
+	},
+	{
+		"Id" : 412,
+		"Code" : "T0412",
+		"Description" : "Conduct import\/export reviews for acquiring systems and software."
+	},
+	{
+		"Id" : 413,
+		"Code" : "T0413",
+		"Description" : "Develop data management capabilities (e.g., cloud-based, centralized cryptographic key management) to include support to the mobile workforce."
+	},
+	{
+		"Id" : 414,
+		"Code" : "T0414",
+		"Description" : "Develop supply chain, system, network, performance, and cybersecurity requirements."
+	},
+	{
+		"Id" : 415,
+		"Code" : "T0415",
+		"Description" : "Ensure that supply chain, system, network, performance, and cybersecurity requirements are included in contract language and delivered."
+	},
+	{
+		"Id" : 416,
+		"Code" : "T0416",
+		"Description" : "Enable applications with public keying by leveraging existing public key infrastructure (PKI) libraries and incorporating certificate management and encryption functionalities when appropriate."
+	},
+	{
+		"Id" : 417,
+		"Code" : "T0417",
+		"Description" : "Identify and leverage the enterprise-wide security services while designing and developing secure applications (e.g., Enterprise PKI, Federated Identity server, Enterprise Antivirus solution) when appropriate."
+	},
+	{
+		"Id" : 418,
+		"Code" : "T0418",
+		"Description" : "Install, update, and troubleshoot systems\/servers."
+	},
+	{
+		"Id" : 419,
+		"Code" : "T0419",
+		"Description" : "Acquire and maintain a working knowledge of constitutional issues which arise in relevant laws, regulations, policies, agreements, standards, procedures, or other issuances."
+	},
+	{
+		"Id" : 420,
+		"Code" : "T0420",
+		"Description" : "Administer test bed(s), and test and evaluate applications, hardware infrastructure, rules\/signatures, access controls, and configurations of platforms managed by service provider(s)."
+	},
+	{
+		"Id" : 421,
+		"Code" : "T0421",
+		"Description" : "Manage the indexing\/cataloguing, storage, and access of explicit organizational knowledge (e.g., hard copy documents, digital files)."
+	},
+	{
+		"Id" : 422,
+		"Code" : "T0422",
+		"Description" : "Implement data management standards, requirements, and specifications."
+	},
+	{
+		"Id" : 423,
+		"Code" : "T0423",
+		"Description" : "Analyze computer-generated threats for counter intelligence or criminal activity. "
+	},
+	{
+		"Id" : 424,
+		"Code" : "T0424",
+		"Description" : "Analyze and provide information to stakeholders that will support the development of security application or modification of an existing security application."
+	},
+	{
+		"Id" : 425,
+		"Code" : "T0425",
+		"Description" : "Analyze organizational cyber policy."
+	},
+	{
+		"Id" : 426,
+		"Code" : "T0426",
+		"Description" : "Analyze the results of software, hardware, or interoperability testing."
+	},
+	{
+		"Id" : 427,
+		"Code" : "T0427",
+		"Description" : "Analyze user needs and requirements to plan architecture."
+	},
+	{
+		"Id" : 428,
+		"Code" : "T0428",
+		"Description" : "Analyze security needs and software requirements to determine feasibility of design within time and cost constraints and security mandates."
+	},
+	{
+		"Id" : 429,
+		"Code" : "T0429",
+		"Description" : "Assess policy needs and collaborate with stakeholders to develop policies to govern cyber activities."
+	},
+	{
+		"Id" : 430,
+		"Code" : "T0430",
+		"Description" : "Gather and preserve evidence used on the prosecution of computer crimes."
+	},
+	{
+		"Id" : 431,
+		"Code" : "T0431",
+		"Description" : "Check system hardware availability, functionality, integrity, and efficiency."
+	},
+	{
+		"Id" : 432,
+		"Code" : "T0432",
+		"Description" : "Collect and analyze intrusion artifacts (e.g., source code, malware, and system configuration) and use discovered data to enable mitigation of potential cyber defense incidents within the enterprise."
+	},
+	{
+		"Id" : 433,
+		"Code" : "T0433",
+		"Description" : "Conduct analysis of log files, evidence, and other information to determine best methods for identifying the perpetrator(s) of a network intrusion or other crimes."
+	},
+	{
+		"Id" : 434,
+		"Code" : "T0434",
+		"Description" : "Conduct framing of pleadings to properly identify alleged violations of law, regulations, or policy\/guidance. "
+	},
+	{
+		"Id" : 435,
+		"Code" : "T0435",
+		"Description" : "Conduct periodic system maintenance including cleaning (both physically and electronically), disk checks, routine reboots, data dumps, and testing."
+	},
+	{
+		"Id" : 436,
+		"Code" : "T0436",
+		"Description" : "Conduct trial runs of programs and software applications to ensure that the desired information is produced and instructions and security levels are correct. "
+	},
+	{
+		"Id" : 437,
+		"Code" : "T0437",
+		"Description" : "Correlate training and learning to business or mission requirements."
+	},
+	{
+		"Id" : 438,
+		"Code" : "T0438",
+		"Description" : "Create, edit, and manage network access control lists on specialized cyber defense systems (e.g., firewalls and intrusion prevention systems)."
+	},
+	{
+		"Id" : 439,
+		"Code" : "T0439",
+		"Description" : "Detect and analyze encrypted data, stenography, alternate data streams and other forms of concealed data."
+	},
+	{
+		"Id" : 440,
+		"Code" : "T0440",
+		"Description" : "Capture and integrate essential system capabilities or business functions required for partial or full system restoration after a catastrophic failure event."
+	},
+	{
+		"Id" : 441,
+		"Code" : "T0441",
+		"Description" : "Define and integrate current and future mission environments."
+	},
+	{
+		"Id" : 442,
+		"Code" : "T0442",
+		"Description" : "Create training courses tailored to the audience and physical environment."
+	},
+	{
+		"Id" : 443,
+		"Code" : "T0443",
+		"Description" : "Deliver training courses tailored to the audience and physical\/virtual environments."
+	},
+	{
+		"Id" : 444,
+		"Code" : "T0444",
+		"Description" : "Apply concepts, procedures, software, equipment, and\/or technology applications to students."
+	},
+	{
+		"Id" : 445,
+		"Code" : "T0445",
+		"Description" : "Design\/integrate a cyber strategy that outlines the vision, mission, and goals that align with the organization’s strategic plan."
+	},
+	{
+		"Id" : 446,
+		"Code" : "T0446",
+		"Description" : "Design, develop, integrate, and update system security measures that provide confidentiality, integrity, availability, authentication, and non-repudiation."
+	},
+	{
+		"Id" : 447,
+		"Code" : "T0447",
+		"Description" : "Design hardware, operating systems, and software applications to adequately address requirements."
+	},
+	{
+		"Id" : 448,
+		"Code" : "T0448",
+		"Description" : "Develop enterprise architecture or system components required to meet user needs."
+	},
+	{
+		"Id" : 449,
+		"Code" : "T0449",
+		"Description" : "Design to security requirements to ensure requirements are met for all systems and\/or applications."
+	},
+	{
+		"Id" : 450,
+		"Code" : "T0450",
+		"Description" : "Design training curriculum and course content based on requirements."
+	},
+	{
+		"Id" : 451,
+		"Code" : "T0451",
+		"Description" : "Participate in development of training curriculum and course content."
+	},
+	{
+		"Id" : 452,
+		"Code" : "T0452",
+		"Description" : "Design, build, implement, and maintain a knowledge management framework that provides end-users access to the organization’s intellectual capital."
+	},
+	{
+		"Id" : 453,
+		"Code" : "T0453",
+		"Description" : "Determine and develop leads and identify sources of information to identify and\/or prosecute the responsible parties to an intrusion or other crimes."
+	},
+	{
+		"Id" : 454,
+		"Code" : "T0454",
+		"Description" : "Define baseline security requirements in accordance with applicable guidelines."
+	},
+	{
+		"Id" : 455,
+		"Code" : "T0455",
+		"Description" : "Develop software system testing and validation procedures, programming, and documentation."
+	},
+	{
+		"Id" : 456,
+		"Code" : "T0456",
+		"Description" : "Develop secure software testing and validation procedures."
+	},
+	{
+		"Id" : 457,
+		"Code" : "T0457",
+		"Description" : "Develop system testing and validation procedures, programming, and documentation."
+	},
+	{
+		"Id" : 458,
+		"Code" : "T0458",
+		"Description" : "Comply with organization systems administration standard operating procedures."
+	},
+	{
+		"Id" : 459,
+		"Code" : "T0459",
+		"Description" : "Implement data mining and data warehousing applications. "
+	},
+	{
+		"Id" : 460,
+		"Code" : "T0460",
+		"Description" : "Develop and implement data mining and data warehousing programs."
+	},
+	{
+		"Id" : 461,
+		"Code" : "T0461",
+		"Description" : "Implement and enforce local network usage policies and procedures."
+	},
+	{
+		"Id" : 462,
+		"Code" : "T0462",
+		"Description" : "Develop procedures and test fail-over for system operations transfer to an alternate site based on system availability requirements."
+	},
+	{
+		"Id" : 463,
+		"Code" : "T0463",
+		"Description" : "Develop cost estimates for new or modified system(s)."
+	},
+	{
+		"Id" : 464,
+		"Code" : "T0464",
+		"Description" : "Develop detailed design documentation for component and interface specifications to support system design and development."
+	},
+	{
+		"Id" : 465,
+		"Code" : "T0465",
+		"Description" : "Develop guidelines for implementation."
+	},
+	{
+		"Id" : 466,
+		"Code" : "T0466",
+		"Description" : "Develop mitigation strategies to address cost, schedule, performance, and security risks."
+	},
+	{
+		"Id" : 467,
+		"Code" : "T0467",
+		"Description" : "Ensure that training meets the goals and objectives for cybersecurity training, education, or awareness."
+	},
+	{
+		"Id" : 468,
+		"Code" : "T0468",
+		"Description" : "Diagnose and resolve customer reported system incidents, problems, and events."
+	},
+	{
+		"Id" : 469,
+		"Code" : "T0469",
+		"Description" : "Analyze and report organizational security posture trends."
+	},
+	{
+		"Id" : 470,
+		"Code" : "T0470",
+		"Description" : "Analyze and report system security posture trends."
+	},
+	{
+		"Id" : 471,
+		"Code" : "T0471",
+		"Description" : "Document original condition of digital and\/or associated evidence (e.g., via digital photographs, written reports, hash function checking)."
+	},
+	{
+		"Id" : 472,
+		"Code" : "T0472",
+		"Description" : "Draft, staff, and publish cyber policy."
+	},
+	{
+		"Id" : 473,
+		"Code" : "T0473",
+		"Description" : "Document and update as necessary all definition and architecture activities."
+	},
+	{
+		"Id" : 474,
+		"Code" : "T0474",
+		"Description" : "Provide legal analysis and decisions to inspectors general, privacy officers, oversight and compliance personnel regarding compliance with cybersecurity policies and relevant legal and regulatory requirements."
+	},
+	{
+		"Id" : 475,
+		"Code" : "T0475",
+		"Description" : "Assess adequate access controls based on principles of least privilege and need-to-know."
+	},
+	{
+		"Id" : 476,
+		"Code" : "T0476",
+		"Description" : "Evaluate the impact of changes to laws, regulations, policies, standards, or procedures."
+	},
+	{
+		"Id" : 477,
+		"Code" : "T0477",
+		"Description" : "Ensure the execution of disaster recovery and continuity of operations."
+	},
+	{
+		"Id" : 478,
+		"Code" : "T0478",
+		"Description" : "Provide guidance on laws, regulations, policies, standards, or procedures to management, personnel, or clients."
+	},
+	{
+		"Id" : 479,
+		"Code" : "T0479",
+		"Description" : "Employ information technology (IT) systems and digital storage media to solve, investigate, and\/or prosecute cybercrimes and fraud committed against people and property. "
+	},
+	{
+		"Id" : 480,
+		"Code" : "T0480",
+		"Description" : "Identify components or elements, allocate comprehensive functional components to include security functions, and describe the relationships between the elements."
+	},
+	{
+		"Id" : 481,
+		"Code" : "T0481",
+		"Description" : "Identify and address cyber workforce planning and management issues (e.g. recruitment, retention, and training)."
+	},
+	{
+		"Id" : 482,
+		"Code" : "T0482",
+		"Description" : "Make recommendations based on trend analysis for enhancements to software and hardware solutions to enhance customer experience."
+	},
+	{
+		"Id" : 483,
+		"Code" : "T0483",
+		"Description" : "Identify potential conflicts with implementation of any cyber defense tools (e.g., tool and signature testing and optimization)."
+	},
+	{
+		"Id" : 484,
+		"Code" : "T0484",
+		"Description" : "Determine the protection needs (i.e., security controls) for the information system(s) and network(s) and document appropriately."
+	},
+	{
+		"Id" : 485,
+		"Code" : "T0485",
+		"Description" : "Implement security measures to resolve vulnerabilities, mitigate risks, and recommend security changes to system or system components as needed."
+	},
+	{
+		"Id" : 486,
+		"Code" : "T0486",
+		"Description" : "Implement Risk Management Framework (RMF)\/Security Assessment and Authorization (SA&A) requirements for dedicated cyber defense systems within the enterprise, and document and maintain records for them."
+	},
+	{
+		"Id" : 487,
+		"Code" : "T0487",
+		"Description" : "Facilitate implementation of new or revised laws, regulations, executive orders, policies, standards, or procedures."
+	},
+	{
+		"Id" : 488,
+		"Code" : "T0488",
+		"Description" : "Implement designs for new or existing system(s)."
+	},
+	{
+		"Id" : 489,
+		"Code" : "T0489",
+		"Description" : "Implement system security measures in accordance with established procedures to ensure confidentiality, integrity, availability, authentication, and non-repudiation."
+	},
+	{
+		"Id" : 490,
+		"Code" : "T0490",
+		"Description" : "Install and configure database management systems and software."
+	},
+	{
+		"Id" : 491,
+		"Code" : "T0491",
+		"Description" : "Install and configure hardware, software, and peripheral equipment for system users in accordance with organizational standards."
+	},
+	{
+		"Id" : 492,
+		"Code" : "T0492",
+		"Description" : "Ensure the integration and implementation of Cross-Domain Solutions (CDS) in a secure environment. "
+	},
+	{
+		"Id" : 493,
+		"Code" : "T0493",
+		"Description" : "Lead and oversee budget, staffing, and contracting."
+	},
+	{
+		"Id" : 494,
+		"Code" : "T0494",
+		"Description" : "Administer accounts, network rights, and access to systems and equipment."
+	},
+	{
+		"Id" : 495,
+		"Code" : "T0495",
+		"Description" : "Manage Accreditation Packages (e.g., ISO\/IEC 15026-2)."
+	},
+	{
+		"Id" : 496,
+		"Code" : "T0496",
+		"Description" : "Perform asset management\/inventory of information technology (IT) resources."
+	},
+	{
+		"Id" : 497,
+		"Code" : "T0497",
+		"Description" : "Manage the information technology (IT) planning process to ensure that developed solutions meet customer requirements."
+	},
+	{
+		"Id" : 498,
+		"Code" : "T0498",
+		"Description" : "Manage system\/server resources including performance, capacity, availability, serviceability, and recoverability."
+	},
+	{
+		"Id" : 499,
+		"Code" : "T0499",
+		"Description" : "Mitigate\/correct security deficiencies identified during security\/certification testing and\/or recommend risk acceptance for the appropriate senior leader or authorized representative."
+	},
+	{
+		"Id" : 500,
+		"Code" : "T0500",
+		"Description" : "Modify and maintain existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance."
+	},
+	{
+		"Id" : 501,
+		"Code" : "T0501",
+		"Description" : "Monitor and maintain system\/server configuration."
+	},
+	{
+		"Id" : 502,
+		"Code" : "T0502",
+		"Description" : "Monitor and report client-level computer system performance."
+	},
+	{
+		"Id" : 503,
+		"Code" : "T0503",
+		"Description" : "Monitor external data sources (e.g., cyber defense vendor sites, Computer Emergency Response Teams, Security Focus) to maintain currency of cyber defense threat condition and determine which security issues may have an impact on the enterprise."
+	},
+	{
+		"Id" : 504,
+		"Code" : "T0504",
+		"Description" : "Assess and monitor cybersecurity related to system implementation and testing practices."
+	},
+	{
+		"Id" : 505,
+		"Code" : "T0505",
+		"Description" : "Monitor the rigorous application of cyber policies, principles, and practices in the delivery of planning and management services."
+	},
+	{
+		"Id" : 506,
+		"Code" : "T0506",
+		"Description" : "Seek consensus on proposed policy changes from stakeholders."
+	},
+	{
+		"Id" : 507,
+		"Code" : "T0507",
+		"Description" : "Oversee installation, implementation, configuration, and support of system components."
+	},
+	{
+		"Id" : 508,
+		"Code" : "T0508",
+		"Description" : "Verify minimum security requirements are in place for all applications."
+	},
+	{
+		"Id" : 509,
+		"Code" : "T0509",
+		"Description" : "Perform an information security risk assessment."
+	},
+	{
+		"Id" : 510,
+		"Code" : "T0510",
+		"Description" : "Coordinate incident response functions."
+	},
+	{
+		"Id" : 511,
+		"Code" : "T0511",
+		"Description" : "Perform developmental testing on systems under development."
+	},
+	{
+		"Id" : 512,
+		"Code" : "T0512",
+		"Description" : "Perform interoperability testing on systems exchanging electronic information with other systems."
+	},
+	{
+		"Id" : 513,
+		"Code" : "T0513",
+		"Description" : "Perform operational testing."
+	},
+	{
+		"Id" : 514,
+		"Code" : "T0514",
+		"Description" : "Diagnose faulty system\/server hardware."
+	},
+	{
+		"Id" : 515,
+		"Code" : "T0515",
+		"Description" : "Perform repairs on faulty system\/server hardware."
+	},
+	{
+		"Id" : 516,
+		"Code" : "T0516",
+		"Description" : "Perform secure program testing, review, and\/or assessment to identify potential flaws in codes and mitigate vulnerabilities."
+	},
+	{
+		"Id" : 517,
+		"Code" : "T0517",
+		"Description" : "Integrate results regarding the identification of gaps in security architecture."
+	},
+	{
+		"Id" : 518,
+		"Code" : "T0518",
+		"Description" : "Perform security reviews and identify security gaps in architecture."
+	},
+	{
+		"Id" : 519,
+		"Code" : "T0519",
+		"Description" : "Plan and coordinate the delivery of classroom techniques and formats (e.g., lectures, demonstrations, interactive exercises, multimedia presentations) for the most effective learning environment."
+	},
+	{
+		"Id" : 520,
+		"Code" : "T0520",
+		"Description" : "Plan non-classroom educational techniques and formats (e.g., video courses, mentoring, web-based courses)."
+	},
+	{
+		"Id" : 521,
+		"Code" : "T0521",
+		"Description" : "Plan implementation strategy to ensure that enterprise components can be integrated and aligned."
+	},
+	{
+		"Id" : 522,
+		"Code" : "T0522",
+		"Description" : "Prepare legal and other relevant documents (e.g., depositions, briefs, affidavits, declarations, appeals, pleadings, discovery)."
+	},
+	{
+		"Id" : 523,
+		"Code" : "T0523",
+		"Description" : "Prepare reports to document the investigation following legal standards and requirements."
+	},
+	{
+		"Id" : 524,
+		"Code" : "T0524",
+		"Description" : "Promote knowledge sharing between information owners\/users through an organization’s operational processes and systems."
+	},
+	{
+		"Id" : 525,
+		"Code" : "T0525",
+		"Description" : "Provide enterprise cybersecurity and supply chain risk management guidance."
+	},
+	{
+		"Id" : 526,
+		"Code" : "T0526",
+		"Description" : "Provides cybersecurity recommendations to leadership based on significant threats and vulnerabilities."
+	},
+	{
+		"Id" : 527,
+		"Code" : "T0527",
+		"Description" : "Provide input to implementation plans and standard operating procedures as they relate to information systems security. "
+	},
+	{
+		"Id" : 528,
+		"Code" : "T0528",
+		"Description" : "Provide input to implementation plans, standard operating procedures, maintenance documentation, and maintenance training materials"
+	},
+	{
+		"Id" : 529,
+		"Code" : "T0529",
+		"Description" : "Provide policy guidance to cyber management, staff, and users."
+	},
+	{
+		"Id" : 530,
+		"Code" : "T0530",
+		"Description" : "Develop a trend analysis and impact report."
+	},
+	{
+		"Id" : 531,
+		"Code" : "T0531",
+		"Description" : "Troubleshoot hardware\/software interface and interoperability problems."
+	},
+	{
+		"Id" : 532,
+		"Code" : "T0532",
+		"Description" : "Review forensic images and other data sources (e.g., volatile data) for recovery of potentially relevant information."
+	},
+	{
+		"Id" : 533,
+		"Code" : "T0533",
+		"Description" : "Review, conduct, or participate in audits of cyber programs and projects."
+	},
+	{
+		"Id" : 534,
+		"Code" : "T0534",
+		"Description" : "Conduct periodic reviews\/revisions of course content for accuracy, completeness alignment, and currency (e.g., course content documents, lesson plans, student texts, examinations, schedules of instruction, and course descriptions)."
+	},
+	{
+		"Id" : 535,
+		"Code" : "T0535",
+		"Description" : "Recommend revisions to curriculum and course content based on feedback from previous training sessions."
+	},
+	{
+		"Id" : 536,
+		"Code" : "T0536",
+		"Description" : "Serve as an internal consultant and advisor in own area of expertise (e.g., technical, copyright, print media, electronic media)."
+	},
+	{
+		"Id" : 537,
+		"Code" : "T0537",
+		"Description" : "Support the CIO in the formulation of cyber-related policies."
+	},
+	{
+		"Id" : 538,
+		"Code" : "T0538",
+		"Description" : "Provide support to test and evaluation activities."
+	},
+	{
+		"Id" : 539,
+		"Code" : "T0539",
+		"Description" : "Test, evaluate, and verify hardware and\/or software to determine compliance with defined specifications and requirements. "
+	},
+	{
+		"Id" : 540,
+		"Code" : "T0540",
+		"Description" : "Record and manage test data. "
+	},
+	{
+		"Id" : 541,
+		"Code" : "T0541",
+		"Description" : "Trace system requirements to design components and perform gap analysis."
+	},
+	{
+		"Id" : 542,
+		"Code" : "T0542",
+		"Description" : "Translate proposed capabilities into technical requirements."
+	},
+	{
+		"Id" : 543,
+		"Code" : "T0543",
+		"Description" : "WITHDRAWN: Use data carving techniques (e.g., FTK-Foremost) to extract data for further analysis."
+	},
+	{
+		"Id" : 544,
+		"Code" : "T0544",
+		"Description" : "Verify stability, interoperability, portability, and\/or scalability of system architecture."
+	},
+	{
+		"Id" : 545,
+		"Code" : "T0545",
+		"Description" : "Work with stakeholders to resolve computer security incidents and vulnerability compliance."
+	},
+	{
+		"Id" : 546,
+		"Code" : "T0546",
+		"Description" : "Write and publish cyber defense recommendations, reports, and white papers on incident findings to appropriate constituencies."
+	},
+	{
+		"Id" : 547,
+		"Code" : "T0547",
+		"Description" : "Research and evaluate available technologies and standards to meet customer requirements."
+	},
+	{
+		"Id" : 548,
+		"Code" : "T0548",
+		"Description" : "Provide advice and input for Disaster Recovery, Contingency, and Continuity of Operations Plans."
+	},
+	{
+		"Id" : 549,
+		"Code" : "T0549",
+		"Description" : "Perform technical (evaluation of technology) and nontechnical (evaluation of people and operations) risk and vulnerability assessments of relevant technology focus areas (e.g., local computing environment, network and infrastructure, enclave boundary, supporting infrastructure, and applications)."
+	},
+	{
+		"Id" : 550,
+		"Code" : "T0550",
+		"Description" : "Make recommendations regarding the selection of cost-effective security controls to mitigate risk (e.g., protection of information, systems and processes)."
+	},
+	{
+		"Id" : 551,
+		"Code" : "T0551",
+		"Description" : "Draft and publish supply chain security and risk management documents."
+	},
+	{
+		"Id" : 552,
+		"Code" : "T0552",
+		"Description" : "Review and approve a supply chain security\/risk management policy."
+	},
+	{
+		"Id" : 553,
+		"Code" : "T0553",
+		"Description" : "Apply cybersecurity functions (e.g., encryption, access control, and identity management) to reduce exploitation opportunities."
+	},
+	{
+		"Id" : 554,
+		"Code" : "T0554",
+		"Description" : "Determine and document software patches or the extent of releases that would leave software vulnerable."
+	},
+	{
+		"Id" : 555,
+		"Code" : "T0555",
+		"Description" : "Document how the implementation of a new system or new interface between systems impacts the current and target environment including but not limited to security posture."
+	},
+	{
+		"Id" : 556,
+		"Code" : "T0556",
+		"Description" : "Assess and design security management functions as related to cyberspace."
+	},
+	{
+		"Id" : 557,
+		"Code" : "T0557",
+		"Description" : "Integrate key management functions as related to cyberspace."
+	},
+	{
+		"Id" : 558,
+		"Code" : "T0558",
+		"Description" : "Analyze user needs and requirements to plan and conduct system development."
+	},
+	{
+		"Id" : 559,
+		"Code" : "T0559",
+		"Description" : "Develop designs to meet specific operational needs and environmental factors (e.g., access controls, automated applications, networked operations."
+	},
+	{
+		"Id" : 560,
+		"Code" : "T0560",
+		"Description" : "Collaborate on cybersecurity designs to meet specific operational needs and environmental factors (e.g., access controls, automated applications, networked operations, high integrity and availability requirements, multilevel security\/processing of multiple classification levels, and processing Sensitive Compartmented Information)."
+	},
+	{
+		"Id" : 561,
+		"Code" : "T0561",
+		"Description" : "Accurately characterize targets."
+	},
+	{
+		"Id" : 562,
+		"Code" : "T0562",
+		"Description" : "Adjust collection operations or collection plan to address identified issues\/challenges and to synchronize collections with overall operational requirements."
+	},
+	{
+		"Id" : 563,
+		"Code" : "T0563",
+		"Description" : "Provide input to the analysis, design, development or acquisition of capabilities used for meeting objectives."
+	},
+	{
+		"Id" : 564,
+		"Code" : "T0564",
+		"Description" : "Analyze feedback to determine extent to which collection products and services are meeting requirements."
+	},
+	{
+		"Id" : 565,
+		"Code" : "T0565",
+		"Description" : "Analyze incoming collection requests."
+	},
+	{
+		"Id" : 566,
+		"Code" : "T0566",
+		"Description" : "Analyze internal operational architecture, tools, and procedures for ways to improve performance."
+	},
+	{
+		"Id" : 567,
+		"Code" : "T0567",
+		"Description" : "Analyze target operational architecture for ways to gain access."
+	},
+	{
+		"Id" : 568,
+		"Code" : "T0568",
+		"Description" : "Analyze plans, directives, guidance and policy for factors that would influence collection management's operational structure and requirement s (e.g., duration, scope, communication requirements, interagency\/international agreements)."
+	},
+	{
+		"Id" : 569,
+		"Code" : "T0569",
+		"Description" : "Answer requests for information."
+	},
+	{
+		"Id" : 570,
+		"Code" : "T0570",
+		"Description" : "Apply and utilize authorized cyber capabilities to enable access to targeted networks."
+	},
+	{
+		"Id" : 571,
+		"Code" : "T0571",
+		"Description" : "Apply expertise in policy and processes to facilitate the development, negotiation, and internal staffing of plans and\/or memorandums of agreement."
+	},
+	{
+		"Id" : 572,
+		"Code" : "T0572",
+		"Description" : "Apply cyber collection, environment preparation and engagement expertise to enable new exploitation and\/or continued collection operations, or in support of customer requirements."
+	},
+	{
+		"Id" : 573,
+		"Code" : "T0573",
+		"Description" : "Assess and apply operational environment factors and risks to collection management process."
+	},
+	{
+		"Id" : 574,
+		"Code" : "T0574",
+		"Description" : "Apply and obey applicable statutes, laws, regulations and policies."
+	},
+	{
+		"Id" : 575,
+		"Code" : "T0575",
+		"Description" : "Coordinate for intelligence support to operational planning activities."
+	},
+	{
+		"Id" : 576,
+		"Code" : "T0576",
+		"Description" : "Assess all-source intelligence and recommend targets to support cyber operation objectives."
+	},
+	{
+		"Id" : 577,
+		"Code" : "T0577",
+		"Description" : "Assess efficiency of existing information exchange and management systems."
+	},
+	{
+		"Id" : 578,
+		"Code" : "T0578",
+		"Description" : "Assess performance of collection assets against prescribed specifications."
+	},
+	{
+		"Id" : 579,
+		"Code" : "T0579",
+		"Description" : "Assess target vulnerabilities and\/or operational capabilities to determine course of action."
+	},
+	{
+		"Id" : 580,
+		"Code" : "T0580",
+		"Description" : "Assess the effectiveness of collections in satisfying priority information gaps, using available capabilities and methods, and adjust collection strategies and collection requirements accordingly."
+	},
+	{
+		"Id" : 581,
+		"Code" : "T0581",
+		"Description" : "Assist and advise interagency partners in identifying and developing best practices for facilitating operational support to achievement of organization objectives."
+	},
+	{
+		"Id" : 582,
+		"Code" : "T0582",
+		"Description" : "Provide expertise to course of action development."
+	},
+	{
+		"Id" : 583,
+		"Code" : "T0583",
+		"Description" : "Provide subject matter expertise to the development of a common operational picture. "
+	},
+	{
+		"Id" : 584,
+		"Code" : "T0584",
+		"Description" : "Maintain a common intelligence picture."
+	},
+	{
+		"Id" : 585,
+		"Code" : "T0585",
+		"Description" : "Provide subject matter expertise to the development of cyber operations specific indicators."
+	},
+	{
+		"Id" : 586,
+		"Code" : "T0586",
+		"Description" : "Assist in the coordination, validation, and management of all-source collection requirements, plans, and\/or activities."
+	},
+	{
+		"Id" : 587,
+		"Code" : "T0587",
+		"Description" : "Assist in the development and refinement of priority information requirements."
+	},
+	{
+		"Id" : 588,
+		"Code" : "T0588",
+		"Description" : "Provide expertise to the development of measures of effectiveness and measures of performance."
+	},
+	{
+		"Id" : 589,
+		"Code" : "T0589",
+		"Description" : "Assist in the identification of intelligence collection shortfalls."
+	},
+	{
+		"Id" : 590,
+		"Code" : "T0590",
+		"Description" : "Enable synchronization of intelligence support plans across partner organizations as required."
+	},
+	{
+		"Id" : 591,
+		"Code" : "T0591",
+		"Description" : "Perform analysis for target infrastructure exploitation activities."
+	},
+	{
+		"Id" : 592,
+		"Code" : "T0592",
+		"Description" : "Provide input to the identification of cyber-related success criteria."
+	},
+	{
+		"Id" : 593,
+		"Code" : "T0593",
+		"Description" : "Brief threat and\/or target current situations."
+	},
+	{
+		"Id" : 594,
+		"Code" : "T0594",
+		"Description" : "Build and maintain electronic target folders."
+	},
+	{
+		"Id" : 595,
+		"Code" : "T0595",
+		"Description" : "Classify documents in accordance with classification guidelines."
+	},
+	{
+		"Id" : 596,
+		"Code" : "T0596",
+		"Description" : "Close requests for information once satisfied."
+	},
+	{
+		"Id" : 597,
+		"Code" : "T0597",
+		"Description" : "Collaborate with intelligence analysts\/targeting organizations involved in related areas."
+	},
+	{
+		"Id" : 598,
+		"Code" : "T0598",
+		"Description" : "Collaborate with development organizations to create and deploy the tools needed to achieve objectives."
+	},
+	{
+		"Id" : 599,
+		"Code" : "T0599",
+		"Description" : "Collaborate with other customer, Intelligence and targeting organizations involved in related cyber areas."
+	},
+	{
+		"Id" : 600,
+		"Code" : "T0600",
+		"Description" : "Collaborate with other internal and external partner organizations on target access and operational issues."
+	},
+	{
+		"Id" : 601,
+		"Code" : "T0601",
+		"Description" : "Collaborate with other team members or partner organizations to develop a diverse program of information materials (e.g., web pages, briefings, print materials)."
+	},
+	{
+		"Id" : 602,
+		"Code" : "T0602",
+		"Description" : "Collaborate with customer to define information requirements."
+	},
+	{
+		"Id" : 603,
+		"Code" : "T0603",
+		"Description" : "Communicate new developments, breakthroughs, challenges and lessons learned to leadership, and internal and external customers."
+	},
+	{
+		"Id" : 604,
+		"Code" : "T0604",
+		"Description" : "Compare allocated and available assets to collection demand as expressed through requirements."
+	},
+	{
+		"Id" : 605,
+		"Code" : "T0605",
+		"Description" : "Compile lessons learned from collection management activity's execution of organization collection objectives."
+	},
+	{
+		"Id" : 606,
+		"Code" : "T0606",
+		"Description" : "Compile, integrate, and\/or interpret all-source data for intelligence or vulnerability value with respect to specific targets."
+	},
+	{
+		"Id" : 607,
+		"Code" : "T0607",
+		"Description" : "Identify and conduct analysis of target communications to identify information essential to support operations."
+	},
+	{
+		"Id" : 608,
+		"Code" : "T0608",
+		"Description" : "Conduct analysis of physical and logical digital technologies (e.g., wireless, SCADA, telecom) to identify potential avenues of access. "
+	},
+	{
+		"Id" : 609,
+		"Code" : "T0609",
+		"Description" : "Conduct access enabling of wireless computer and digital networks."
+	},
+	{
+		"Id" : 610,
+		"Code" : "T0610",
+		"Description" : "Conduct collection and processing of wireless computer and digital networks."
+	},
+	{
+		"Id" : 611,
+		"Code" : "T0611",
+		"Description" : "Conduct end-of-operations assessments."
+	},
+	{
+		"Id" : 612,
+		"Code" : "T0612",
+		"Description" : "Conduct exploitation of wireless computer and digital networks."
+	},
+	{
+		"Id" : 613,
+		"Code" : "T0613",
+		"Description" : "Conduct formal and informal coordination of collection requirements in accordance with established guidelines and procedures."
+	},
+	{
+		"Id" : 614,
+		"Code" : "T0614",
+		"Description" : "Conduct independent in-depth target and technical analysis including target-specific information (e.g., cultural, organizational, political) that results in access."
+	},
+	{
+		"Id" : 615,
+		"Code" : "T0615",
+		"Description" : "Conduct in-depth research and analysis."
+	},
+	{
+		"Id" : 616,
+		"Code" : "T0616",
+		"Description" : "Conduct network scouting and vulnerability analyses of systems within a network."
+	},
+	{
+		"Id" : 617,
+		"Code" : "T0617",
+		"Description" : "Conduct nodal analysis."
+	},
+	{
+		"Id" : 618,
+		"Code" : "T0618",
+		"Description" : "Conduct on-net activities to control and exfiltrate data from deployed technologies."
+	},
+	{
+		"Id" : 619,
+		"Code" : "T0619",
+		"Description" : "Conduct on-net and off-net activities to control, and exfiltrate data from deployed, automated technologies."
+	},
+	{
+		"Id" : 620,
+		"Code" : "T0620",
+		"Description" : "Conduct open source data collection via various online tools."
+	},
+	{
+		"Id" : 621,
+		"Code" : "T0621",
+		"Description" : "Conduct quality control to determine validity and relevance of information gathered about networks."
+	},
+	{
+		"Id" : 622,
+		"Code" : "T0622",
+		"Description" : "Develop, review and implement all levels of planning guidance in support of cyber operations."
+	},
+	{
+		"Id" : 623,
+		"Code" : "T0623",
+		"Description" : "Conduct survey of computer and digital networks."
+	},
+	{
+		"Id" : 624,
+		"Code" : "T0624",
+		"Description" : "Conduct target research and analysis."
+	},
+	{
+		"Id" : 625,
+		"Code" : "T0625",
+		"Description" : "Consider efficiency and effectiveness of collection assets and resources if\/when applied against priority information requirements."
+	},
+	{
+		"Id" : 626,
+		"Code" : "T0626",
+		"Description" : "Construct collection plans and matrixes using established guidance and procedures."
+	},
+	{
+		"Id" : 627,
+		"Code" : "T0627",
+		"Description" : "Contribute to crisis action planning for cyber operations."
+	},
+	{
+		"Id" : 628,
+		"Code" : "T0628",
+		"Description" : "Contribute to the development of the organization's decision support tools if necessary."
+	},
+	{
+		"Id" : 629,
+		"Code" : "T0629",
+		"Description" : "Contribute to the development, staffing, and coordination of cyber operations policies, performance standards, plans and approval packages with appropriate internal and\/or external decision makers."
+	},
+	{
+		"Id" : 630,
+		"Code" : "T0630",
+		"Description" : "Incorporate intelligence equities into the overall design of cyber operations plans."
+	},
+	{
+		"Id" : 631,
+		"Code" : "T0631",
+		"Description" : "Coordinate resource allocation of collection assets against prioritized collection requirements with collection discipline leads."
+	},
+	{
+		"Id" : 632,
+		"Code" : "T0632",
+		"Description" : "Coordinate inclusion of collection plan in appropriate documentation."
+	},
+	{
+		"Id" : 633,
+		"Code" : "T0633",
+		"Description" : "Coordinate target vetting with appropriate partners."
+	},
+	{
+		"Id" : 634,
+		"Code" : "T0634",
+		"Description" : "Re-task or re-direct collection assets and resources."
+	},
+	{
+		"Id" : 635,
+		"Code" : "T0635",
+		"Description" : "Coordinate with intelligence and cyber defense partners to obtain relevant essential information."
+	},
+	{
+		"Id" : 636,
+		"Code" : "T0636",
+		"Description" : "Coordinate with intelligence planners to ensure that collection managers receive information requirements."
+	},
+	{
+		"Id" : 637,
+		"Code" : "T0637",
+		"Description" : "Coordinate with the intelligence planning team to assess capability to satisfy assigned intelligence tasks."
+	},
+	{
+		"Id" : 638,
+		"Code" : "T0638",
+		"Description" : "Coordinate, produce, and track intelligence requirements."
+	},
+	{
+		"Id" : 639,
+		"Code" : "T0639",
+		"Description" : "Coordinate, synchronize and draft applicable intelligence sections of cyber operations plans."
+	},
+	{
+		"Id" : 640,
+		"Code" : "T0640",
+		"Description" : "Use intelligence estimates to counter potential target actions."
+	},
+	{
+		"Id" : 641,
+		"Code" : "T0641",
+		"Description" : "Create comprehensive exploitation strategies that identify exploitable technical or operational vulnerabilities."
+	},
+	{
+		"Id" : 642,
+		"Code" : "T0642",
+		"Description" : "Maintain awareness of internal and external cyber organization structures, strengths, and employments of staffing and technology."
+	},
+	{
+		"Id" : 643,
+		"Code" : "T0643",
+		"Description" : "Deploy tools to a target and utilize them once deployed (e.g., backdoors, sniffers)."
+	},
+	{
+		"Id" : 644,
+		"Code" : "T0644",
+		"Description" : "Detect exploits against targeted networks and hosts and react accordingly."
+	},
+	{
+		"Id" : 645,
+		"Code" : "T0645",
+		"Description" : "Determine course of action for addressing changes to objectives, guidance, and operational environment."
+	},
+	{
+		"Id" : 646,
+		"Code" : "T0646",
+		"Description" : "Determine existing collection management webpage databases, libraries and storehouses."
+	},
+	{
+		"Id" : 647,
+		"Code" : "T0647",
+		"Description" : "Determine how identified factors affect the tasking, collection, processing, exploitation and dissemination architecture's form and function."
+	},
+	{
+		"Id" : 648,
+		"Code" : "T0648",
+		"Description" : "Determine indicators (e.g., measures of effectiveness) that are best suited to specific cyber operation objectives."
+	},
+	{
+		"Id" : 649,
+		"Code" : "T0649",
+		"Description" : "Determine organizations and\/or echelons with collection authority over all accessible collection assets."
+	},
+	{
+		"Id" : 650,
+		"Code" : "T0650",
+		"Description" : "Determine what technologies are used by a given target."
+	},
+	{
+		"Id" : 651,
+		"Code" : "T0651",
+		"Description" : "Develop a method for comparing collection reports to outstanding requirements to identify information gaps."
+	},
+	{
+		"Id" : 652,
+		"Code" : "T0652",
+		"Description" : "Develop all-source intelligence targeting materials."
+	},
+	{
+		"Id" : 653,
+		"Code" : "T0653",
+		"Description" : "Apply analytic techniques to gain more target information."
+	},
+	{
+		"Id" : 654,
+		"Code" : "T0654",
+		"Description" : "Develop and maintain deliberate and\/or crisis plans."
+	},
+	{
+		"Id" : 655,
+		"Code" : "T0655",
+		"Description" : "Develop and review specific cyber operations guidance for integration into broader planning activities."
+	},
+	{
+		"Id" : 656,
+		"Code" : "T0656",
+		"Description" : "Develop and review intelligence guidance for integration into supporting cyber operations planning and execution."
+	},
+	{
+		"Id" : 657,
+		"Code" : "T0657",
+		"Description" : "Develop coordinating instructions by collection discipline for each phase of an operation."
+	},
+	{
+		"Id" : 658,
+		"Code" : "T0658",
+		"Description" : "Develop cyber operations plans and guidance to ensure that execution and resource allocation decisions align with organization objectives."
+	},
+	{
+		"Id" : 659,
+		"Code" : "T0659",
+		"Description" : "Develop detailed intelligence support to cyber operations requirements."
+	},
+	{
+		"Id" : 660,
+		"Code" : "T0660",
+		"Description" : "Develop information requirements necessary for answering priority information requests."
+	},
+	{
+		"Id" : 661,
+		"Code" : "T0661",
+		"Description" : "Develop measures of effectiveness and measures of performance."
+	},
+	{
+		"Id" : 662,
+		"Code" : "T0662",
+		"Description" : "Allocate collection assets based on leadership's guidance, priorities, and\/or operational emphasis."
+	},
+	{
+		"Id" : 663,
+		"Code" : "T0663",
+		"Description" : "Develop munitions effectiveness assessment or operational assessment materials."
+	},
+	{
+		"Id" : 664,
+		"Code" : "T0664",
+		"Description" : "Develop new techniques for gaining and keeping access to target systems."
+	},
+	{
+		"Id" : 665,
+		"Code" : "T0665",
+		"Description" : "Develop or participate in the development of standards for providing, requesting, and\/or obtaining support from external partners to synchronize cyber operations."
+	},
+	{
+		"Id" : 666,
+		"Code" : "T0666",
+		"Description" : "Develop or shape international cyber engagement strategies, policies, and activities to meet organization objectives."
+	},
+	{
+		"Id" : 667,
+		"Code" : "T0667",
+		"Description" : "Develop potential courses of action."
+	},
+	{
+		"Id" : 668,
+		"Code" : "T0668",
+		"Description" : "Develop procedures for providing feedback to collection managers, asset managers, and processing, exploitation and dissemination centers."
+	},
+	{
+		"Id" : 669,
+		"Code" : "T0669",
+		"Description" : "Develop strategy and processes for partner planning, operations, and capability development."
+	},
+	{
+		"Id" : 670,
+		"Code" : "T0670",
+		"Description" : "Develop, implement, and recommend changes to appropriate planning procedures and policies."
+	},
+	{
+		"Id" : 671,
+		"Code" : "T0671",
+		"Description" : "Develop, maintain, and assess cyber cooperation security agreements with external partners."
+	},
+	{
+		"Id" : 672,
+		"Code" : "T0672",
+		"Description" : "Devise, document, and validate cyber operation strategy and planning documents."
+	},
+	{
+		"Id" : 673,
+		"Code" : "T0673",
+		"Description" : "Disseminate reports to inform decision makers on collection issues."
+	},
+	{
+		"Id" : 674,
+		"Code" : "T0674",
+		"Description" : "Disseminate tasking messages and collection plans."
+	},
+	{
+		"Id" : 675,
+		"Code" : "T0675",
+		"Description" : "Conduct and document an assessment of the collection results using established procedures."
+	},
+	{
+		"Id" : 676,
+		"Code" : "T0676",
+		"Description" : "Draft cyber intelligence collection and production requirements."
+	},
+	{
+		"Id" : 677,
+		"Code" : "T0677",
+		"Description" : "Edit or execute simple scripts (e.g., Perl, VBScript) on Windows and UNIX systems."
+	},
+	{
+		"Id" : 678,
+		"Code" : "T0678",
+		"Description" : "Engage customers to understand customers’ intelligence needs and wants."
+	},
+	{
+		"Id" : 679,
+		"Code" : "T0679",
+		"Description" : "Ensure operational planning efforts are effectively transitioned to current operations."
+	},
+	{
+		"Id" : 680,
+		"Code" : "T0680",
+		"Description" : "Ensure that intelligence planning activities are integrated and synchronized with operational planning timelines."
+	},
+	{
+		"Id" : 681,
+		"Code" : "T0681",
+		"Description" : "Establish alternative processing, exploitation and dissemination pathways to address identified issues or problems."
+	},
+	{
+		"Id" : 682,
+		"Code" : "T0682",
+		"Description" : "Validate the link between collection requests and critical information requirements and priority intelligence requirements of leadership."
+	},
+	{
+		"Id" : 683,
+		"Code" : "T0683",
+		"Description" : "Establish processing, exploitation and dissemination management activity using approved guidance and\/or procedures."
+	},
+	{
+		"Id" : 684,
+		"Code" : "T0684",
+		"Description" : "Estimate operational effects generated through cyber activities."
+	},
+	{
+		"Id" : 685,
+		"Code" : "T0685",
+		"Description" : "Evaluate threat decision-making processes."
+	},
+	{
+		"Id" : 686,
+		"Code" : "T0686",
+		"Description" : "Identify threat vulnerabilities."
+	},
+	{
+		"Id" : 687,
+		"Code" : "T0687",
+		"Description" : "Identify threats to Blue Force vulnerabilities."
+	},
+	{
+		"Id" : 688,
+		"Code" : "T0688",
+		"Description" : "Evaluate available capabilities against desired effects to recommend efficient solutions."
+	},
+	{
+		"Id" : 689,
+		"Code" : "T0689",
+		"Description" : "Evaluate extent to which collected information and\/or produced intelligence satisfy information requests."
+	},
+	{
+		"Id" : 690,
+		"Code" : "T0690",
+		"Description" : "Evaluate intelligence estimates to support the planning cycle."
+	},
+	{
+		"Id" : 691,
+		"Code" : "T0691",
+		"Description" : "Evaluate the conditions that affect employment of available cyber intelligence capabilities."
+	},
+	{
+		"Id" : 692,
+		"Code" : "T0692",
+		"Description" : "Generate and evaluate the effectiveness of network analysis strategies."
+	},
+	{
+		"Id" : 693,
+		"Code" : "T0693",
+		"Description" : "Evaluate extent to which collection operations are synchronized with operational requirements."
+	},
+	{
+		"Id" : 694,
+		"Code" : "T0694",
+		"Description" : "Evaluate the effectiveness of collection operations against the collection plan."
+	},
+	{
+		"Id" : 695,
+		"Code" : "T0695",
+		"Description" : "Examine intercept-related metadata and content with an understanding of targeting significance."
+	},
+	{
+		"Id" : 696,
+		"Code" : "T0696",
+		"Description" : "Exploit network devices, security devices, and\/or terminals or environments using various methods or tools."
+	},
+	{
+		"Id" : 697,
+		"Code" : "T0697",
+		"Description" : "Facilitate access enabling by physical and\/or wireless means."
+	},
+	{
+		"Id" : 698,
+		"Code" : "T0698",
+		"Description" : "Facilitate continuously updated intelligence, surveillance, and visualization input to common operational picture managers."
+	},
+	{
+		"Id" : 699,
+		"Code" : "T0699",
+		"Description" : "Facilitate interactions between internal and external partner decision makers to synchronize and integrate courses of action in support of objectives."
+	},
+	{
+		"Id" : 700,
+		"Code" : "T0700",
+		"Description" : "Facilitate the sharing of “best practices” and “lessons learned” throughout the cyber operations community."
+	},
+	{
+		"Id" : 701,
+		"Code" : "T0701",
+		"Description" : "Collaborate with developers, conveying target and technical knowledge in tool requirements submissions, to enhance tool development."
+	},
+	{
+		"Id" : 702,
+		"Code" : "T0702",
+		"Description" : "Formulate collection strategies based on knowledge of available intelligence discipline capabilities and gathering methods that align multi-discipline collection capabilities and accesses with targets and their observables."
+	},
+	{
+		"Id" : 703,
+		"Code" : "T0703",
+		"Description" : "Gather and analyze data (e.g., measures of effectiveness) to determine effectiveness, and provide reporting for follow-on activities."
+	},
+	{
+		"Id" : 704,
+		"Code" : "T0704",
+		"Description" : "Incorporate cyber operations and communications security support plans into organization objectives."
+	},
+	{
+		"Id" : 705,
+		"Code" : "T0705",
+		"Description" : "Incorporate intelligence and counterintelligence to support plan development."
+	},
+	{
+		"Id" : 706,
+		"Code" : "T0706",
+		"Description" : "Gather information about networks through traditional and alternative techniques, (e.g., social network analysis, call-chaining, traffic analysis.)"
+	},
+	{
+		"Id" : 707,
+		"Code" : "T0707",
+		"Description" : "Generate requests for information."
+	},
+	{
+		"Id" : 708,
+		"Code" : "T0708",
+		"Description" : "Identify threat tactics, and methodologies."
+	},
+	{
+		"Id" : 709,
+		"Code" : "T0709",
+		"Description" : "Identify all available partner intelligence capabilities and limitations supporting cyber operations."
+	},
+	{
+		"Id" : 710,
+		"Code" : "T0710",
+		"Description" : "Identify and evaluate threat critical capabilities, requirements, and vulnerabilities."
+	},
+	{
+		"Id" : 711,
+		"Code" : "T0711",
+		"Description" : "Identify, draft, evaluate, and prioritize relevant intelligence or information requirements."
+	},
+	{
+		"Id" : 712,
+		"Code" : "T0712",
+		"Description" : "Identify and manage security cooperation priorities with external partners."
+	},
+	{
+		"Id" : 713,
+		"Code" : "T0713",
+		"Description" : "Identify and submit intelligence requirements for the purposes of designating priority information requirements."
+	},
+	{
+		"Id" : 714,
+		"Code" : "T0714",
+		"Description" : "Identify collaboration forums that can serve as mechanisms for coordinating processes, functions, and outputs with specified organizations and functional groups."
+	},
+	{
+		"Id" : 715,
+		"Code" : "T0715",
+		"Description" : "Identify collection gaps and potential collection strategies against targets. "
+	},
+	{
+		"Id" : 716,
+		"Code" : "T0716",
+		"Description" : "Identify coordination requirements and procedures with designated collection authorities."
+	},
+	{
+		"Id" : 717,
+		"Code" : "T0717",
+		"Description" : "Identify critical target elements."
+	},
+	{
+		"Id" : 718,
+		"Code" : "T0718",
+		"Description" : "Identify intelligence gaps and shortfalls."
+	},
+	{
+		"Id" : 719,
+		"Code" : "T0719",
+		"Description" : "Identify cyber intelligence gaps and shortfalls for cyber operational planning."
+	},
+	{
+		"Id" : 720,
+		"Code" : "T0720",
+		"Description" : "Identify gaps in our understanding of target technology and developing innovative collection approaches."
+	},
+	{
+		"Id" : 721,
+		"Code" : "T0721",
+		"Description" : "Identify issues or problems that can disrupt and\/or degrade processing, exploitation and dissemination architecture effectiveness."
+	},
+	{
+		"Id" : 722,
+		"Code" : "T0722",
+		"Description" : "Identify network components and their functionality to enable analysis and target development."
+	},
+	{
+		"Id" : 723,
+		"Code" : "T0723",
+		"Description" : "Identify potential collection disciplines for application against priority information requirements."
+	},
+	{
+		"Id" : 724,
+		"Code" : "T0724",
+		"Description" : "Identify potential points of strength and vulnerability within a network."
+	},
+	{
+		"Id" : 725,
+		"Code" : "T0725",
+		"Description" : "Identify and mitigate risks to collection management ability to support the plan, operations and target cycle."
+	},
+	{
+		"Id" : 726,
+		"Code" : "T0726",
+		"Description" : "Identify the need, scope, and timeframe for applicable intelligence environment preparation derived production."
+	},
+	{
+		"Id" : 727,
+		"Code" : "T0727",
+		"Description" : "Identify, locate, and track targets via geospatial analysis techniques."
+	},
+	{
+		"Id" : 728,
+		"Code" : "T0728",
+		"Description" : "Provide input to or develop courses of action based on threat factors."
+	},
+	{
+		"Id" : 729,
+		"Code" : "T0729",
+		"Description" : "Inform external partners of the potential effects of new or revised policy and guidance on cyber operations partnering activities."
+	},
+	{
+		"Id" : 730,
+		"Code" : "T0730",
+		"Description" : "Inform stakeholders (e.g., collection managers, asset managers, processing, exploitation and dissemination centers) of evaluation results using established procedures."
+	},
+	{
+		"Id" : 731,
+		"Code" : "T0731",
+		"Description" : "Initiate requests to guide tasking and assist with collection management."
+	},
+	{
+		"Id" : 732,
+		"Code" : "T0732",
+		"Description" : "Integrate cyber planning\/targeting efforts with other organizations."
+	},
+	{
+		"Id" : 733,
+		"Code" : "T0733",
+		"Description" : "Interpret environment preparations assessments to determine a course of action."
+	},
+	{
+		"Id" : 734,
+		"Code" : "T0734",
+		"Description" : "Issue requests for information."
+	},
+	{
+		"Id" : 735,
+		"Code" : "T0735",
+		"Description" : "Lead and coordinate intelligence support to operational planning."
+	},
+	{
+		"Id" : 736,
+		"Code" : "T0736",
+		"Description" : "Lead or enable exploitation operations in support of organization objectives and target requirements."
+	},
+	{
+		"Id" : 737,
+		"Code" : "T0737",
+		"Description" : "Link priority collection requirements to optimal assets and resources."
+	},
+	{
+		"Id" : 738,
+		"Code" : "T0738",
+		"Description" : "Maintain awareness of advancements in hardware and software technologies (e.g., attend training or conferences, reading) and their potential implications."
+	},
+	{
+		"Id" : 739,
+		"Code" : "T0739",
+		"Description" : "Maintain relationships with internal and external partners involved in cyber planning or related areas."
+	},
+	{
+		"Id" : 740,
+		"Code" : "T0740",
+		"Description" : "Maintain situational awareness and functionality of organic operational infrastructure."
+	},
+	{
+		"Id" : 741,
+		"Code" : "T0741",
+		"Description" : "Maintain situational awareness of cyber-related intelligence requirements and associated tasking."
+	},
+	{
+		"Id" : 742,
+		"Code" : "T0742",
+		"Description" : "Maintain situational awareness of partner capabilities and activities."
+	},
+	{
+		"Id" : 743,
+		"Code" : "T0743",
+		"Description" : "Maintain situational awareness to determine if changes to the operating environment require review of the plan."
+	},
+	{
+		"Id" : 744,
+		"Code" : "T0744",
+		"Description" : "Maintain target lists (i.e., RTL, JTL, CTL, etc.)."
+	},
+	{
+		"Id" : 745,
+		"Code" : "T0745",
+		"Description" : "Make recommendations to guide collection in support of customer requirements."
+	},
+	{
+		"Id" : 746,
+		"Code" : "T0746",
+		"Description" : "Modify collection requirements as necessary."
+	},
+	{
+		"Id" : 747,
+		"Code" : "T0747",
+		"Description" : "Monitor and evaluate integrated cyber operations to identify opportunities to meet organization objectives."
+	},
+	{
+		"Id" : 748,
+		"Code" : "T0748",
+		"Description" : "Monitor and report changes in threat dispositions, activities, tactics, capabilities, objectives, etc. as related to designated cyber operations warning problem sets."
+	},
+	{
+		"Id" : 749,
+		"Code" : "T0749",
+		"Description" : "Monitor and report on validated threat activities."
+	},
+	{
+		"Id" : 750,
+		"Code" : "T0750",
+		"Description" : "Monitor completion of reallocated collection efforts."
+	},
+	{
+		"Id" : 751,
+		"Code" : "T0751",
+		"Description" : "Monitor open source websites for hostile content directed towards organizational or partner interests."
+	},
+	{
+		"Id" : 752,
+		"Code" : "T0752",
+		"Description" : "Monitor operational environment and report on adversarial activities which fulfill leadership’s priority information requirements."
+	},
+	{
+		"Id" : 753,
+		"Code" : "T0753",
+		"Description" : "Monitor operational status and effectiveness of the processing, exploitation and dissemination architecture."
+	},
+	{
+		"Id" : 754,
+		"Code" : "T0754",
+		"Description" : "Monitor target networks to provide indications and warning of target communications changes or processing failures."
+	},
+	{
+		"Id" : 755,
+		"Code" : "T0755",
+		"Description" : "Monitor the operational environment for potential factors and risks to the collection operation management process."
+	},
+	{
+		"Id" : 756,
+		"Code" : "T0756",
+		"Description" : "Operate and maintain automated systems for gaining and maintaining access to target systems."
+	},
+	{
+		"Id" : 757,
+		"Code" : "T0757",
+		"Description" : "Optimize mix of collection assets and resources to increase effectiveness and efficiency against essential information associated with priority intelligence requirements."
+	},
+	{
+		"Id" : 758,
+		"Code" : "T0758",
+		"Description" : "Produce timely, fused, all-source cyber operations intelligence and\/or indications and warnings intelligence products (e.g., threat assessments, briefings, intelligence studies, country studies)."
+	},
+	{
+		"Id" : 759,
+		"Code" : "T0759",
+		"Description" : "Contribute to the review and refinement of policy, to include assessments of the consequences of endorsing or not endorsing such policy."
+	},
+	{
+		"Id" : 760,
+		"Code" : "T0760",
+		"Description" : "Provide subject matter expertise to planning teams, coordination groups, and task forces as necessary."
+	},
+	{
+		"Id" : 761,
+		"Code" : "T0761",
+		"Description" : "Provide subject-matter expertise and support to planning\/developmental forums and working groups as appropriate."
+	},
+	{
+		"Id" : 762,
+		"Code" : "T0762",
+		"Description" : "WITHDRAWN: Provide subject matter expertise in course of action development."
+	},
+	{
+		"Id" : 763,
+		"Code" : "T0763",
+		"Description" : "Conduct long-range, strategic planning efforts with internal and external partners in cyber activities."
+	},
+	{
+		"Id" : 764,
+		"Code" : "T0764",
+		"Description" : "Provide subject matter expertise to planning efforts with internal and external cyber operations partners."
+	},
+	{
+		"Id" : 765,
+		"Code" : "T0765",
+		"Description" : "Provide subject matter expertise to development of exercises."
+	},
+	{
+		"Id" : 766,
+		"Code" : "T0766",
+		"Description" : "Propose policy which governs interactions with external coordination groups."
+	},
+	{
+		"Id" : 767,
+		"Code" : "T0767",
+		"Description" : "Perform content and\/or metadata analysis to meet organization objectives."
+	},
+	{
+		"Id" : 768,
+		"Code" : "T0768",
+		"Description" : "Conduct cyber activities to degrade\/remove information resident in computers and computer networks."
+	},
+	{
+		"Id" : 769,
+		"Code" : "T0769",
+		"Description" : "Perform targeting automation activities."
+	},
+	{
+		"Id" : 770,
+		"Code" : "T0770",
+		"Description" : "Characterize websites."
+	},
+	{
+		"Id" : 771,
+		"Code" : "T0771",
+		"Description" : "Provide subject matter expertise to website characterizations."
+	},
+	{
+		"Id" : 772,
+		"Code" : "T0772",
+		"Description" : "Prepare for and provide subject matter expertise to exercises."
+	},
+	{
+		"Id" : 773,
+		"Code" : "T0773",
+		"Description" : "Prioritize collection requirements for collection platforms based on platform capabilities."
+	},
+	{
+		"Id" : 774,
+		"Code" : "T0774",
+		"Description" : "Process exfiltrated data for analysis and\/or dissemination to customers."
+	},
+	{
+		"Id" : 775,
+		"Code" : "T0775",
+		"Description" : "Produce network reconstructions."
+	},
+	{
+		"Id" : 776,
+		"Code" : "T0776",
+		"Description" : "Produce target system analysis products."
+	},
+	{
+		"Id" : 777,
+		"Code" : "T0777",
+		"Description" : "Profile network or system administrators and their activities."
+	},
+	{
+		"Id" : 778,
+		"Code" : "T0778",
+		"Description" : "Profile targets and their activities."
+	},
+	{
+		"Id" : 779,
+		"Code" : "T0779",
+		"Description" : "Provide advice\/assistance to operations and intelligence decision makers with reassignment of collection assets and resources in response to dynamic operational situations."
+	},
+	{
+		"Id" : 780,
+		"Code" : "T0780",
+		"Description" : "Provide advisory and advocacy support to promote collection planning as an integrated component of the strategic campaign plans and other adaptive plans."
+	},
+	{
+		"Id" : 781,
+		"Code" : "T0781",
+		"Description" : "Provide aim point and reengagement recommendations."
+	},
+	{
+		"Id" : 782,
+		"Code" : "T0782",
+		"Description" : "Provide analyses and support for effectiveness assessment."
+	},
+	{
+		"Id" : 783,
+		"Code" : "T0783",
+		"Description" : "Provide current intelligence support to critical internal\/external stakeholders as appropriate."
+	},
+	{
+		"Id" : 784,
+		"Code" : "T0784",
+		"Description" : "Provide cyber focused guidance and advice on intelligence support plan inputs."
+	},
+	{
+		"Id" : 785,
+		"Code" : "T0785",
+		"Description" : "Provide evaluation and feedback necessary for improving intelligence production, intelligence reporting, collection requirements, and operations."
+	},
+	{
+		"Id" : 786,
+		"Code" : "T0786",
+		"Description" : "Provide information and assessments for the purposes of informing leadership and customers; developing and refining objectives; supporting operation planning and execution; and assessing the effects of operations."
+	},
+	{
+		"Id" : 787,
+		"Code" : "T0787",
+		"Description" : "Provide input for the development and refinement of the cyber operations objectives, priorities, strategies, plans, and programs."
+	},
+	{
+		"Id" : 788,
+		"Code" : "T0788",
+		"Description" : "Provide input and assist in post-action effectiveness assessments."
+	},
+	{
+		"Id" : 789,
+		"Code" : "T0789",
+		"Description" : "Provide input and assist in the development of plans and guidance."
+	},
+	{
+		"Id" : 790,
+		"Code" : "T0790",
+		"Description" : "Provide input for targeting effectiveness assessments for leadership acceptance."
+	},
+	{
+		"Id" : 791,
+		"Code" : "T0791",
+		"Description" : "Provide input to the administrative and logistical elements of an operational support plan."
+	},
+	{
+		"Id" : 792,
+		"Code" : "T0792",
+		"Description" : "Provide intelligence analysis and support to designated exercises, planning activities, and time sensitive operations."
+	},
+	{
+		"Id" : 793,
+		"Code" : "T0793",
+		"Description" : "Provide effectiveness support to designated exercises, and\/or time sensitive operations."
+	},
+	{
+		"Id" : 794,
+		"Code" : "T0794",
+		"Description" : "Provide operations and reengagement recommendations."
+	},
+	{
+		"Id" : 795,
+		"Code" : "T0795",
+		"Description" : "Provide planning support between internal and external partners."
+	},
+	{
+		"Id" : 796,
+		"Code" : "T0796",
+		"Description" : "Provide real-time actionable geolocation information."
+	},
+	{
+		"Id" : 797,
+		"Code" : "T0797",
+		"Description" : "Provide target recommendations which meet leadership objectives."
+	},
+	{
+		"Id" : 798,
+		"Code" : "T0798",
+		"Description" : "Provide targeting products and targeting support as designated."
+	},
+	{
+		"Id" : 799,
+		"Code" : "T0799",
+		"Description" : "Provide time sensitive targeting support. "
+	},
+	{
+		"Id" : 800,
+		"Code" : "T0800",
+		"Description" : "Provide timely notice of imminent or hostile intentions or activities which may impact organization objectives, resources, or capabilities."
+	},
+	{
+		"Id" : 801,
+		"Code" : "T0801",
+		"Description" : "Recommend refinement, adaption, termination, and execution of operational plans as appropriate."
+	},
+	{
+		"Id" : 802,
+		"Code" : "T0802",
+		"Description" : "Review appropriate information sources to determine validity and relevance of information gathered."
+	},
+	{
+		"Id" : 803,
+		"Code" : "T0803",
+		"Description" : "Reconstruct networks in diagram or report format."
+	},
+	{
+		"Id" : 804,
+		"Code" : "T0804",
+		"Description" : "Record information collection and\/or environment preparation activities against targets during operations designed to achieve cyber effects."
+	},
+	{
+		"Id" : 805,
+		"Code" : "T0805",
+		"Description" : "Report intelligence-derived significant network events and intrusions."
+	},
+	{
+		"Id" : 806,
+		"Code" : "T0806",
+		"Description" : "Request discipline-specific processing, exploitation, and disseminate information collected using discipline's collection assets and resources in accordance with approved guidance and\/or procedures."
+	},
+	{
+		"Id" : 807,
+		"Code" : "T0807",
+		"Description" : "Research communications trends in emerging technologies (in computer and telephony networks, satellite, cable, and wireless) in both open and classified sources."
+	},
+	{
+		"Id" : 808,
+		"Code" : "T0808",
+		"Description" : "Review and comprehend organizational leadership objectives and guidance for planning."
+	},
+	{
+		"Id" : 809,
+		"Code" : "T0809",
+		"Description" : "Review capabilities of allocated collection assets."
+	},
+	{
+		"Id" : 810,
+		"Code" : "T0810",
+		"Description" : "Review intelligence collection guidance for accuracy\/applicability."
+	},
+	{
+		"Id" : 811,
+		"Code" : "T0811",
+		"Description" : "Review list of prioritized collection requirements and essential information."
+	},
+	{
+		"Id" : 812,
+		"Code" : "T0812",
+		"Description" : "Review and update overarching collection plan, as required."
+	},
+	{
+		"Id" : 813,
+		"Code" : "T0813",
+		"Description" : "Review, approve, prioritize, and submit operational requirements for research, development, and\/or acquisition of cyber capabilities."
+	},
+	{
+		"Id" : 814,
+		"Code" : "T0814",
+		"Description" : "Revise collection matrix based on availability of optimal assets and resources."
+	},
+	{
+		"Id" : 815,
+		"Code" : "T0815",
+		"Description" : "Sanitize and minimize information to protect sources and methods. "
+	},
+	{
+		"Id" : 816,
+		"Code" : "T0816",
+		"Description" : "Scope the cyber intelligence planning effort."
+	},
+	{
+		"Id" : 817,
+		"Code" : "T0817",
+		"Description" : "Serve as a conduit of information from partner teams by identifying subject matter experts who can assist in the investigation of complex or unusual situations."
+	},
+	{
+		"Id" : 818,
+		"Code" : "T0818",
+		"Description" : "Serve as a liaison with external partners."
+	},
+	{
+		"Id" : 819,
+		"Code" : "T0819",
+		"Description" : "Solicit and manage to completion feedback from requestors on quality, timeliness, and effectiveness of collection against collection requirements."
+	},
+	{
+		"Id" : 820,
+		"Code" : "T0820",
+		"Description" : "Specify changes to collection plan and\/or operational environment that necessitate re-tasking or re-directing of collection assets and resources."
+	},
+	{
+		"Id" : 821,
+		"Code" : "T0821",
+		"Description" : "Specify discipline-specific collections and\/or taskings that must be executed in the near term."
+	},
+	{
+		"Id" : 822,
+		"Code" : "T0822",
+		"Description" : "Submit information requests to collection requirement management section for processing as collection requests."
+	},
+	{
+		"Id" : 823,
+		"Code" : "T0823",
+		"Description" : "Submit or respond to requests for deconfliction of cyber operations."
+	},
+	{
+		"Id" : 824,
+		"Code" : "T0824",
+		"Description" : "Support identification and documentation of collateral effects."
+	},
+	{
+		"Id" : 825,
+		"Code" : "T0825",
+		"Description" : "Synchronize cyber international engagement activities and associated resource requirements as appropriate."
+	},
+	{
+		"Id" : 826,
+		"Code" : "T0826",
+		"Description" : "Synchronize cyber portions of security cooperation plans."
+	},
+	{
+		"Id" : 827,
+		"Code" : "T0827",
+		"Description" : "Synchronize the integrated employment of all available organic and partner intelligence collection assets using available collaboration capabilities and techniques."
+	},
+	{
+		"Id" : 828,
+		"Code" : "T0828",
+		"Description" : "Test and evaluate locally developed tools for operational use."
+	},
+	{
+		"Id" : 829,
+		"Code" : "T0829",
+		"Description" : "Test internal developed tools and techniques against target tools. "
+	},
+	{
+		"Id" : 830,
+		"Code" : "T0830",
+		"Description" : "Track status of information requests, including those processed as collection requests and production requirements, using established procedures."
+	},
+	{
+		"Id" : 831,
+		"Code" : "T0831",
+		"Description" : "Translate collection requests into applicable discipline-specific collection requirements."
+	},
+	{
+		"Id" : 832,
+		"Code" : "T0832",
+		"Description" : "Use feedback results (e.g., lesson learned) to identify opportunities to improve collection management efficiency and effectiveness."
+	},
+	{
+		"Id" : 833,
+		"Code" : "T0833",
+		"Description" : "Validate requests for information according to established criteria."
+	},
+	{
+		"Id" : 834,
+		"Code" : "T0834",
+		"Description" : "Work closely with planners, intelligence analysts, and collection managers to ensure intelligence requirements and collection plans are accurate and up-to-date."
+	},
+	{
+		"Id" : 835,
+		"Code" : "T0835",
+		"Description" : "Work closely with planners, analysts, and collection managers to identify intelligence gaps and ensure intelligence requirements are accurate and up-to-date."
+	},
+	{
+		"Id" : 836,
+		"Code" : "T0836",
+		"Description" : "Document lessons learned that convey the results of events and\/or exercises."
+	},
+	{
+		"Id" : 837,
+		"Code" : "T0837",
+		"Description" : "Advise managers and operators on language and cultural issues that impact organization objectives."
+	},
+	{
+		"Id" : 838,
+		"Code" : "T0838",
+		"Description" : "Analyze and process information using language and\/or cultural expertise."
+	},
+	{
+		"Id" : 839,
+		"Code" : "T0839",
+		"Description" : "Assess, document, and apply a target's motivation and\/or frame of reference to facilitate analysis, targeting and collection opportunities."
+	},
+	{
+		"Id" : 840,
+		"Code" : "T0840",
+		"Description" : "Collaborate across internal and\/or external organizational lines to enhance collection, analysis and dissemination."
+	},
+	{
+		"Id" : 841,
+		"Code" : "T0841",
+		"Description" : "Conduct all-source target research to include the use of open source materials in the target language. "
+	},
+	{
+		"Id" : 842,
+		"Code" : "T0842",
+		"Description" : "Conduct analysis of target communications to identify essential information in support of organization objectives. "
+	},
+	{
+		"Id" : 843,
+		"Code" : "T0843",
+		"Description" : "Perform quality review and provide feedback on transcribed or translated materials."
+	},
+	{
+		"Id" : 844,
+		"Code" : "T0844",
+		"Description" : "Evaluate and interpret metadata to look for patterns, anomalies, or events, thereby optimizing targeting, analysis and processing."
+	},
+	{
+		"Id" : 845,
+		"Code" : "T0845",
+		"Description" : "Identify cyber threat tactics and methodologies."
+	},
+	{
+		"Id" : 846,
+		"Code" : "T0846",
+		"Description" : "Identify target communications within the global network."
+	},
+	{
+		"Id" : 847,
+		"Code" : "T0847",
+		"Description" : "Maintain awareness of target communication tools, techniques, and the characteristics of target communication networks (e.g., capacity, functionality, paths, critical nodes) and their potential implications for targeting, collection, and analysis."
+	},
+	{
+		"Id" : 848,
+		"Code" : "T0848",
+		"Description" : "Provide feedback to collection managers to enhance future collection and analysis."
+	},
+	{
+		"Id" : 849,
+		"Code" : "T0849",
+		"Description" : "Perform foreign language and dialect identification in initial source data."
+	},
+	{
+		"Id" : 850,
+		"Code" : "T0850",
+		"Description" : "Perform or support technical network analysis and mapping. "
+	},
+	{
+		"Id" : 851,
+		"Code" : "T0851",
+		"Description" : "Provide requirements and feedback to optimize the development of language processing tools."
+	},
+	{
+		"Id" : 852,
+		"Code" : "T0852",
+		"Description" : "Perform social network analysis and document as appropriate. "
+	},
+	{
+		"Id" : 853,
+		"Code" : "T0853",
+		"Description" : "Scan, identify and prioritize target graphic (including machine-to-machine communications) and\/or voice language material."
+	},
+	{
+		"Id" : 854,
+		"Code" : "T0854",
+		"Description" : "Tip critical or time-sensitive information to appropriate customers. "
+	},
+	{
+		"Id" : 855,
+		"Code" : "T0855",
+		"Description" : "Transcribe target voice materials in the target language. "
+	},
+	{
+		"Id" : 856,
+		"Code" : "T0856",
+		"Description" : "Translate (e.g., verbatim, gist, and\/or summaries) target graphic material."
+	},
+	{
+		"Id" : 857,
+		"Code" : "T0857",
+		"Description" : "Translate (e.g., verbatim, gist, and\/or summaries) target voice material."
+	},
+	{
+		"Id" : 858,
+		"Code" : "T0858",
+		"Description" : "Identify foreign language terminology within computer programs (e.g., comments, variable names)."
+	},
+	{
+		"Id" : 859,
+		"Code" : "T0859",
+		"Description" : "Provide near-real time language analysis support (e.g., live operations). "
+	},
+	{
+		"Id" : 860,
+		"Code" : "T0860",
+		"Description" : "Identify cyber\/technology-related terminology in the target language."
+	},
+	{
+		"Id" : 861,
+		"Code" : "T0861",
+		"Description" : "Work with the general counsel, external affairs and businesses to ensure both existing and new services comply with privacy and data security obligations."
+	},
+	{
+		"Id" : 862,
+		"Code" : "T0862",
+		"Description" : "Work with legal counsel and management, key departments and committees to ensure the organization has and maintains appropriate privacy and confidentiality consent, authorization forms and information notices and materials reflecting current organization and legal practices and requirements."
+	},
+	{
+		"Id" : 863,
+		"Code" : "T0863",
+		"Description" : "Coordinate with the appropriate regulating bodies to ensure that programs, policies and procedures involving civil rights, civil liberties and privacy considerations are addressed in an integrated and comprehensive manner."
+	},
+	{
+		"Id" : 864,
+		"Code" : "T0864",
+		"Description" : "Liaise with regulatory and accrediting bodies."
+	},
+	{
+		"Id" : 865,
+		"Code" : "T0865",
+		"Description" : "Work with external affairs to develop relationships with regulators and other government officials responsible for privacy and data security issues."
+	},
+	{
+		"Id" : 866,
+		"Code" : "T0866",
+		"Description" : "Maintain current knowledge of applicable federal and state privacy laws and accreditation standards, and monitor advancements in information privacy technologies to ensure organizational adaptation and compliance."
+	},
+	{
+		"Id" : 867,
+		"Code" : "T0867",
+		"Description" : "Ensure all processing and\/or databases are registered with the local privacy\/data protection authorities where required."
+	},
+	{
+		"Id" : 868,
+		"Code" : "T0868",
+		"Description" : "Work with business teams and senior management to ensure awareness of “best practices” on privacy and data security issues."
+	},
+	{
+		"Id" : 869,
+		"Code" : "T0869",
+		"Description" : "Work with organization senior management to establish an organization-wide Privacy Oversight Committee"
+	},
+	{
+		"Id" : 870,
+		"Code" : "T0870",
+		"Description" : "Serve in a leadership role for Privacy Oversight Committee activities"
+	},
+	{
+		"Id" : 871,
+		"Code" : "T0871",
+		"Description" : "Collaborate on cyber privacy and security policies and procedures"
+	},
+	{
+		"Id" : 872,
+		"Code" : "T0872",
+		"Description" : "Collaborate with cybersecurity personnel on the security risk assessment process to address privacy compliance and risk mitigation"
+	},
+	{
+		"Id" : 873,
+		"Code" : "T0873",
+		"Description" : "Interface with Senior Management to develop strategic plans for the collection, use and sharing of information in a manner that maximizes its value while complying with applicable privacy regulations"
+	},
+	{
+		"Id" : 874,
+		"Code" : "T0874",
+		"Description" : "Provide strategic guidance to corporate officers regarding information resources and technology"
+	},
+	{
+		"Id" : 875,
+		"Code" : "T0875",
+		"Description" : "Assist the Security Officer with the development and implementation of an information infrastructure"
+	},
+	{
+		"Id" : 876,
+		"Code" : "T0876",
+		"Description" : "Coordinate with the Corporate Compliance Officer regarding procedures for documenting and reporting self-disclosures of any evidence of privacy violations."
+	},
+	{
+		"Id" : 877,
+		"Code" : "T0877",
+		"Description" : "Work cooperatively with applicable organization units in overseeing consumer information access rights"
+	},
+	{
+		"Id" : 878,
+		"Code" : "T0878",
+		"Description" : "Serve as the information privacy liaison for users of technology systems"
+	},
+	{
+		"Id" : 879,
+		"Code" : "T0879",
+		"Description" : "Act as a liaison to the information systems department"
+	},
+	{
+		"Id" : 880,
+		"Code" : "T0880",
+		"Description" : "Develop privacy training materials and other communications to increase employee understanding of company privacy policies, data handling practices and procedures and legal obligations"
+	},
+	{
+		"Id" : 881,
+		"Code" : "T0881",
+		"Description" : "Oversee, direct, deliver or ensure delivery of initial privacy training and orientation to all employees, volunteers, contractors, alliances, business associates and other appropriate third parties"
+	},
+	{
+		"Id" : 882,
+		"Code" : "T0882",
+		"Description" : "Conduct on-going privacy training and awareness activities"
+	},
+	{
+		"Id" : 883,
+		"Code" : "T0883",
+		"Description" : "Work with external affairs to develop relationships with consumer organizations and other NGOs with an interest in privacy and data security issues—and to manage company participation in public events related to privacy and data security"
+	},
+	{
+		"Id" : 884,
+		"Code" : "T0884",
+		"Description" : "Work with organization administration, legal counsel and other related parties to represent the organization’s information privacy interests with external parties, including government bodies, which undertake to adopt or amend privacy legislation, regulation or standard."
+	},
+	{
+		"Id" : 885,
+		"Code" : "T0885",
+		"Description" : "Report on a periodic basis regarding the status of the privacy program to the Board, CEO or other responsible individual or committee"
+	},
+	{
+		"Id" : 886,
+		"Code" : "T0886",
+		"Description" : "Work with External Affairs to respond to press and other inquiries regarding concern over consumer and employee data"
+	},
+	{
+		"Id" : 887,
+		"Code" : "T0887",
+		"Description" : "Provide leadership for the organization’s privacy program"
+	},
+	{
+		"Id" : 888,
+		"Code" : "T0888",
+		"Description" : "Direct and oversee privacy specialists and coordinate privacy and data security programs with senior executives globally to ensure consistency across the organization"
+	},
+	{
+		"Id" : 889,
+		"Code" : "T0889",
+		"Description" : "Ensure compliance with privacy practices and consistent application of sanctions for failure to comply with privacy policies for all individuals in the organization’s workforce, extended workforce and for all business associates in cooperation with Human Resources, the information security officer, administration and legal counsel as applicable"
+	},
+	{
+		"Id" : 890,
+		"Code" : "T0890",
+		"Description" : "Develop appropriate sanctions for failure to comply with the corporate privacy policies and procedures"
+	},
+	{
+		"Id" : 891,
+		"Code" : "T0891",
+		"Description" : "Resolve allegations of noncompliance with the corporate privacy policies or notice of information practices"
+	},
+	{
+		"Id" : 892,
+		"Code" : "T0892",
+		"Description" : "Develop and coordinate a risk management and compliance framework for privacy"
+	},
+	{
+		"Id" : 893,
+		"Code" : "T0893",
+		"Description" : "Undertake a comprehensive review of the company’s data and privacy projects and ensure that they are consistent with corporate privacy and data security goals and policies."
+	},
+	{
+		"Id" : 894,
+		"Code" : "T0894",
+		"Description" : "Develop and manage enterprise-wide procedures to ensure the development of new products and services is consistent with company privacy policies and legal obligations"
+	},
+	{
+		"Id" : 895,
+		"Code" : "T0895",
+		"Description" : "Establish a process for receiving, documenting, tracking, investigating and acting on all complaints concerning the organization’s privacy policies and procedures"
+	},
+	{
+		"Id" : 896,
+		"Code" : "T0896",
+		"Description" : "Establish with management and operations a mechanism to track access to protected health information, within the purview of the organization and as required by law and to allow qualified individuals to review or receive a report on such activity"
+	},
+	{
+		"Id" : 897,
+		"Code" : "T0897",
+		"Description" : "Provide leadership in the planning, design and evaluation of privacy and security related projects"
+	},
+	{
+		"Id" : 898,
+		"Code" : "T0898",
+		"Description" : "Establish an internal privacy audit program"
+	},
+	{
+		"Id" : 899,
+		"Code" : "T0899",
+		"Description" : "Periodically revise the privacy program considering changes in laws, regulatory or company policy"
+	},
+	{
+		"Id" : 900,
+		"Code" : "T0900",
+		"Description" : "Provide development guidance and assist in the identification, implementation and maintenance of organization information privacy policies and procedures in coordination with organization management and administration and legal counsel"
+	},
+	{
+		"Id" : 901,
+		"Code" : "T0901",
+		"Description" : "Assure that the use of technologies maintains, and does not erode, privacy protections on use, collection and disclosure of personal information"
+	},
+	{
+		"Id" : 902,
+		"Code" : "T0902",
+		"Description" : "Monitor systems development and operations for security and privacy compliance"
+	},
+	{
+		"Id" : 903,
+		"Code" : "T0903",
+		"Description" : "Conduct privacy impact assessments of proposed rules on the privacy of personal information, including the type of personal information collected and the number of people affected"
+	},
+	{
+		"Id" : 904,
+		"Code" : "T0904",
+		"Description" : "Conduct periodic information privacy impact assessments and ongoing compliance monitoring activities in coordination with the organization’s other compliance and operational assessment functions"
+	},
+	{
+		"Id" : 905,
+		"Code" : "T0905",
+		"Description" : "Review all system-related information security plans to ensure alignment between security and privacy practices"
+	},
+	{
+		"Id" : 906,
+		"Code" : "T0906",
+		"Description" : "Work with all organization personnel involved with any aspect of release of protected information to ensure coordination with the organization’s policies, procedures and legal requirements"
+	},
+	{
+		"Id" : 907,
+		"Code" : "T0907",
+		"Description" : "Account for and administer individual requests for release or disclosure of personal and\/or protected information"
+	},
+	{
+		"Id" : 908,
+		"Code" : "T0908",
+		"Description" : "Develop and manage procedures for vetting and auditing vendors for compliance with the privacy and data security policies and legal requirements"
+	},
+	{
+		"Id" : 909,
+		"Code" : "T0909",
+		"Description" : "Participate in the implementation and ongoing compliance monitoring of all trading partner and business associate agreements, to ensure all privacy concerns, requirements and responsibilities are addressed"
+	},
+	{
+		"Id" : 910,
+		"Code" : "T0910",
+		"Description" : "Act as, or work with, counsel relating to business partner contracts"
+	},
+	{
+		"Id" : 911,
+		"Code" : "T0911",
+		"Description" : "Mitigate effects of a use or disclosure of personal information by employees or business partners"
+	},
+	{
+		"Id" : 912,
+		"Code" : "T0912",
+		"Description" : "Develop and apply corrective action procedures"
+	},
+	{
+		"Id" : 913,
+		"Code" : "T0913",
+		"Description" : "Administer action on all complaints concerning the organization’s privacy policies and procedures in coordination and collaboration with other similar functions and, when necessary, legal counsel"
+	},
+	{
+		"Id" : 914,
+		"Code" : "T0914",
+		"Description" : "Support the organization’s privacy compliance program, working closely with the Privacy Officer, Chief Information Security Officer, and other business leaders to ensure compliance with federal and state privacy laws and regulations "
+	},
+	{
+		"Id" : 915,
+		"Code" : "T0915",
+		"Description" : "Identify and correct potential company compliance gaps and\/or areas of risk to ensure full compliance with privacy regulations"
+	},
+	{
+		"Id" : 916,
+		"Code" : "T0916",
+		"Description" : "Manage privacy incidents and breaches in conjunction with the Privacy Officer, Chief Information Security Officer, legal counsel and the business units"
+	},
+	{
+		"Id" : 917,
+		"Code" : "T0917",
+		"Description" : "Coordinate with the Chief Information Security Officer to ensure alignment between security and privacy practices"
+	},
+	{
+		"Id" : 918,
+		"Code" : "T0918",
+		"Description" : "Establish, implement and maintains organization-wide policies and procedures to comply with privacy regulations"
+	},
+	{
+		"Id" : 919,
+		"Code" : "T0919",
+		"Description" : "Ensure that the company maintains appropriate privacy and confidentiality notices, consent and authorization forms, and materials"
+	},
+	{
+		"Id" : 920,
+		"Code" : "T0920",
+		"Description" : "Develop and maintain appropriate communications and training to promote and educate all workforce members and members of the Board regarding privacy compliance issues and requirements, and the consequences of noncompliance"
+	},
+	{
+		"Id" : 921,
+		"Code" : "T0921",
+		"Description" : "Determine business partner requirements related to the organization’s privacy program."
+	},
+	{
+		"Id" : 922,
+		"Code" : "T0922",
+		"Description" : "Establish and administer a process for receiving, documenting, tracking, investigating and taking corrective action as appropriate on complaints concerning the company’s privacy policies and procedures."
+	},
+	{
+		"Id" : 923,
+		"Code" : "T0923",
+		"Description" : "Cooperate with the relevant regulatory agencies and other legal entities, and organization officers, in any compliance reviews or investigations."
+	},
+	{
+		"Id" : 924,
+		"Code" : "T0924",
+		"Description" : "Perform ongoing privacy compliance monitoring activities."
+	},
+	{
+		"Id" : 925,
+		"Code" : "T0925",
+		"Description" : "Monitor advancements in information privacy technologies to ensure organization adoption and compliance."
+	},
+	{
+		"Id" : 926,
+		"Code" : "T0926",
+		"Description" : "Develop or assist with the development of privacy training materials and other communications to increase employee understanding of company privacy policies, data handling practices and procedures and legal obligations."
+	},
+	{
+		"Id" : 927,
+		"Code" : "T0927",
+		"Description" : "Appoint and guide a team of IT security experts."
+	},
+	{
+		"Id" : 928,
+		"Code" : "T0928",
+		"Description" : "Collaborate with key stakeholders to establish a cybersecurity risk management program."
+	},
+	{
+		"Id" : 929,
+		"Code" : "T0929",
+		"Description" : "Identify and assign individuals to specific roles associated with the execution of the Risk Management Framework."
+	},
+	{
+		"Id" : 930,
+		"Code" : "T0930",
+		"Description" : "Establish a risk management strategy for the organization that includes a determination of risk tolerance."
+	},
+	{
+		"Id" : 931,
+		"Code" : "T0931",
+		"Description" : "Identify the missions, business functions, and mission\/business processes the system will support."
+	},
+	{
+		"Id" : 932,
+		"Code" : "T0932",
+		"Description" : "Identify stakeholders who have a security interest in the development, implementation, operation, or sustainment of a system."
+	},
+	{
+		"Id" : 933,
+		"Code" : "T0933",
+		"Description" : "Identify stakeholders who have a security interest in the development, implementation, operation, or sustainment of a system."
+	},
+	{
+		"Id" : 934,
+		"Code" : "T0934",
+		"Description" : "Identify stakeholder assets that require protection."
+	},
+	{
+		"Id" : 935,
+		"Code" : "T0935",
+		"Description" : "Conduct an initial risk assessment of stakeholder assets and update the risk assessment on an ongoing basis."
+	},
+	{
+		"Id" : 936,
+		"Code" : "T0936",
+		"Description" : "Define the stakeholder protection needs and stakeholder security requirements."
+	},
+	{
+		"Id" : 937,
+		"Code" : "T0937",
+		"Description" : "Determine the placement of a system within the enterprise architecture."
+	},
+	{
+		"Id" : 938,
+		"Code" : "T0938",
+		"Description" : "Identify organization-wide common controls that are available for inheritance by organizational systems."
+	},
+	{
+		"Id" : 939,
+		"Code" : "T0939",
+		"Description" : "Conduct a second-level security categorization for organizational systems with the same impact level."
+	},
+	{
+		"Id" : 940,
+		"Code" : "T0940",
+		"Description" : "Determine the boundary of a system."
+	},
+	{
+		"Id" : 941,
+		"Code" : "T0941",
+		"Description" : "Identify the security requirements allocated to a system and to the organization."
+	},
+	{
+		"Id" : 942,
+		"Code" : "T0942",
+		"Description" : "Identify the types of information to be processed, stored, or transmitted by a system."
+	},
+	{
+		"Id" : 943,
+		"Code" : "T0943",
+		"Description" : "Categorize the system and document the security categorization results as part of system requirements."
+	},
+	{
+		"Id" : 944,
+		"Code" : "T0944",
+		"Description" : "Describe the characteristics of a system."
+	},
+	{
+		"Id" : 945,
+		"Code" : "T0945",
+		"Description" : "Register the system with appropriate organizational program\/management offices."
+	},
+	{
+		"Id" : 946,
+		"Code" : "T0946",
+		"Description" : "Select the security controls for a system and document the functional description of the planned control implementations in a security plan."
+	},
+	{
+		"Id" : 947,
+		"Code" : "T0947",
+		"Description" : "Develop a strategy for monitoring security control effectiveness; coordinate the system-level strategy with the organization and mission\/business process-level monitoring strategy."
+	},
+	{
+		"Id" : 948,
+		"Code" : "T0948",
+		"Description" : "Review and approve security plans."
+	},
+	{
+		"Id" : 949,
+		"Code" : "T0949",
+		"Description" : "Implement the security controls specified in a security plan or other system documentation."
+	},
+	{
+		"Id" : 950,
+		"Code" : "T0950",
+		"Description" : "Document changes to planned security control implementation and establish the configuration baseline for a system."
+	},
+	{
+		"Id" : 951,
+		"Code" : "T0951",
+		"Description" : "Develop, review, and approve a plan to assess the security controls in a system and the organization."
+	},
+	{
+		"Id" : 952,
+		"Code" : "T0952",
+		"Description" : "Assess the security controls in accordance with the assessment procedures defined in a security assessment plan."
+	},
+	{
+		"Id" : 953,
+		"Code" : "T0953",
+		"Description" : "Prepare a security assessment report documenting the issues, findings, and recommendations from the security control assessment."
+	},
+	{
+		"Id" : 954,
+		"Code" : "T0954",
+		"Description" : "Conduct initial remediation actions on security controls based on the findings and recommendations of a security assessment report; reassess remediated controls."
+	},
+	{
+		"Id" : 955,
+		"Code" : "T0955",
+		"Description" : "Prepare a plan of action and milestones based on the findings and recommendations of a security assessment report excluding any remediation actions taken."
+	},
+	{
+		"Id" : 956,
+		"Code" : "T0956",
+		"Description" : "Assemble an authorization package and submit the package to an authorizing official for adjudication."
+	},
+	{
+		"Id" : 957,
+		"Code" : "T0957",
+		"Description" : "Determine the risk from the operation or use of a system or the provision or use of common controls."
+	},
+	{
+		"Id" : 958,
+		"Code" : "T0958",
+		"Description" : "Identify and implement a preferred course of action in response to the risk determined."
+	},
+	{
+		"Id" : 959,
+		"Code" : "T0959",
+		"Description" : "Determine if the risk from the operation or use of the system or the provision or use of common controls, is acceptable."
+	},
+	{
+		"Id" : 960,
+		"Code" : "T0960",
+		"Description" : "Monitor changes to a system and its environment of operation."
+	},
+	{
+		"Id" : 961,
+		"Code" : "T0961",
+		"Description" : "Assess the security controls employed within and inherited by the system in accordance with an organization-defined monitoring strategy."
+	},
+	{
+		"Id" : 962,
+		"Code" : "T0962",
+		"Description" : "Respond to risk based on the results of ongoing monitoring activities, assessment of risk, and outstanding items in a plan of action and milestones."
+	},
+	{
+		"Id" : 963,
+		"Code" : "T0963",
+		"Description" : "Update a security plan, security assessment report, and plan of action and milestones based on the results of a continuous monitoring process."
+	},
+	{
+		"Id" : 964,
+		"Code" : "T0964",
+		"Description" : "Report the security status of a system (including the effectiveness of security controls) to an authorizing official on an ongoing basis in accordance with the monitoring strategy."
+	},
+	{
+		"Id" : 965,
+		"Code" : "T0965",
+		"Description" : "Review the security status of a system (including the effectiveness of security controls) on an ongoing basis to determine whether the risk remains acceptable."
+	},
+	{
+		"Id" : 966,
+		"Code" : "T0966",
+		"Description" : "Implement a system disposal strategy which executes required actions when a system is removed from service."
+	},
+	{
+		"Id" : 967,
+		"Code" : "T0967",
+		"Description" : "Sponsor and promote continuous monitoring within the organization."
+	},
+	{
+		"Id" : 968,
+		"Code" : "T0968",
+		"Description" : "Assign staff as needed to appropriate continuous monitoring working groups."
+	},
+	{
+		"Id" : 969,
+		"Code" : "T0969",
+		"Description" : "Identify reporting requirements to support continuous monitoring activities."
+	},
+	{
+		"Id" : 970,
+		"Code" : "T0970",
+		"Description" : "Establish scoring and grading metrics to measure effectiveness of continuous monitoring program."
+	},
+	{
+		"Id" : 971,
+		"Code" : "T0971",
+		"Description" : "Determine how to integrate a continuous monitoring program into the organization’s broader information security governance structures and policies."
+	},
+	{
+		"Id" : 972,
+		"Code" : "T0972",
+		"Description" : "Use continuous monitoring scoring and grading metrics to make information security investment decisions to address persistent issues."
+	},
+	{
+		"Id" : 973,
+		"Code" : "T0973",
+		"Description" : "Ensure that the continuous monitoring staff have the training and resources (e.g., staff and budget) needed to perform assigned duties."
+	},
+	{
+		"Id" : 974,
+		"Code" : "T0974",
+		"Description" : "Work with organizational risk analysts to ensure that continuous monitoring reporting covers appropriate levels of the organization."
+	},
+	{
+		"Id" : 975,
+		"Code" : "T0975",
+		"Description" : "Work with the organizational risk analysts to ensure risk metrics are defining realistically to support continuous monitoring."
+	},
+	{
+		"Id" : 976,
+		"Code" : "T0976",
+		"Description" : "Work with organizational officials to ensure continuous monitoring tool data provides situation awareness of risk levels."
+	},
+	{
+		"Id" : 977,
+		"Code" : "T0977",
+		"Description" : "Establish triggers for unacceptable risk thresholds for continuous monitoring data."
+	},
+	{
+		"Id" : 978,
+		"Code" : "T0978",
+		"Description" : "Work with organizational officials to establish system level reporting categories that can be used by the organization’s continuous monitoring program."
+	},
+	{
+		"Id" : 979,
+		"Code" : "T0980",
+		"Description" : "Designate a qualified person to be responsible for the management and implementation of the continuous monitoring program."
+	},
+	{
+		"Id" : 980,
+		"Code" : "T0981",
+		"Description" : "Identify the continuous monitoring stakeholders and establish a process to keep them informed about the program."
+	},
+	{
+		"Id" : 981,
+		"Code" : "T0982",
+		"Description" : "Identify security oriented organization reporting requirements that are fulfilled by the continuous monitoring program.  "
+	},
+	{
+		"Id" : 982,
+		"Code" : "T0983",
+		"Description" : "Use the continuous monitoring data to make information security investment decisions to address persistent issues."
+	},
+	{
+		"Id" : 983,
+		"Code" : "T0984",
+		"Description" : "Define triggers within the continuous monitoring program that can be used to define unacceptable risk and result in action being taken to resolve."
+	},
+	{
+		"Id" : 984,
+		"Code" : "T0985",
+		"Description" : "Establish scoring and grading metrics to measure effectiveness of continuous monitoring program."
+	},
+	{
+		"Id" : 985,
+		"Code" : "T0986",
+		"Description" : "Work with security managers to establish appropriate continuous monitoring reporting requirements at the system level."
+	},
+	{
+		"Id" : 986,
+		"Code" : "T0987",
+		"Description" : "Use the continuous monitoring tools and technologies to assess risk on an ongoing basis."
+	},
+	{
+		"Id" : 987,
+		"Code" : "T0988",
+		"Description" : "Establish appropriate reporting requirements in adherence to the criteria identified in the continuous monitoring program for use in automated control assessment."
+	},
+	{
+		"Id" : 988,
+		"Code" : "T0989",
+		"Description" : "Use non-automated assessment methods where the data from the continuous monitoring tools and technologies is not yet of adequate sufficiency or quality."
+	},
+	{
+		"Id" : 989,
+		"Code" : "T0990",
+		"Description" : "Develop processes with the external audit group on how to share information regarding the continuous monitoring program and its impact on security control assessment."
+	},
+	{
+		"Id" : 990,
+		"Code" : "T0991",
+		"Description" : "Identify reporting requirements for use in automated control assessment to support continuous monitoring."
+	},
+	{
+		"Id" : 991,
+		"Code" : "T0992",
+		"Description" : "Determine how the continuous monitoring results will be used in ongoing authorization."
+	},
+	{
+		"Id" : 992,
+		"Code" : "T0993",
+		"Description" : "Establish continuous monitoring tools and technologies access control process and procedures."
+	},
+	{
+		"Id" : 993,
+		"Code" : "T0994",
+		"Description" : "Ensure that continuous monitoring tools and technologies access control is managed adequately.  "
+	},
+	{
+		"Id" : 994,
+		"Code" : "T0995",
+		"Description" : "Establish a process to provide technical help to continuous monitoring mitigators."
+	},
+	{
+		"Id" : 995,
+		"Code" : "T0996",
+		"Description" : "Coordinate continuous monitoring reporting requirements across various users."
+	},
+	{
+		"Id" : 996,
+		"Code" : "T0997",
+		"Description" : "Establish responsibilities for supporting implementation of each continuous monitoring tool or technology."
+	},
+	{
+		"Id" : 997,
+		"Code" : "T0998",
+		"Description" : "Establish liaison with scoring and metrics working group to support continuous monitoring."
+	},
+	{
+		"Id" : 998,
+		"Code" : "T0999",
+		"Description" : "Establish and operate a process to manage introduction of new risk to support continuous monitoring."
+	},
+	{
+		"Id" : 999,
+		"Code" : "T1000",
+		"Description" : "Establish continuous monitoring configuration settings issues and coordination sub-group."
+	},
+	{
+		"Id" : 1000,
+		"Code" : "T1001",
+		"Description" : "Establish continuous monitoring tools and technologies performance measurement\/management requirements."
+	},
+	{
+		"Id" : 1001,
+		"Code" : "T1002",
+		"Description" : "Using scores and grades to motivate and assess performance while addressing concerns to support continuous monitoring"
+	},
+	{
+		"Id" : 1002,
+		"Code" : "T1003",
+		"Description" : "Work with security managers (i.e., system owners, information system security managers, information system security officers, etc.) to establish appropriate reporting requirements for continuous monitoring at the system level."
+	},
+	{
+		"Id" : 1003,
+		"Code" : "T1004",
+		"Description" : "Use continuous monitoring tools to assess risk on an ongoing basis."
+	},
+	{
+		"Id" : 1004,
+		"Code" : "T1005",
+		"Description" : "Use the continuous monitoring data to make information security investment decisions to address persistent issues."
+	},
+	{
+		"Id" : 1005,
+		"Code" : "T1006",
+		"Description" : "Respond to issues flagged during continuous monitoring, escalate and coordinate a response."
+	},
+	{
+		"Id" : 1006,
+		"Code" : "T1007",
+		"Description" : "Review findings from the continuous monitoring program and mitigate risks on a timely basis."
+	},
+	{
+		"Id" : 1007,
+		"Code" : "T0041",
+		"Description" : "Coordinate and provide expert technical support to enterprise-wide cyber defense technicians to resolve cyber defense incidents."
+	},
+	{
+		"Id" : 1008,
+		"Code" : "T0047",
+		"Description" : "Correlate incident data to identify specific vulnerabilities and make recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 1009,
+		"Code" : "T0161",
+		"Description" : "Perform analysis of log files from a variety of sources (e.g., individual host logs, network traffic logs, firewall logs, and intrusion detection system [IDS] logs) to identify possible threats to network security."
+	},
+	{
+		"Id" : 1010,
+		"Code" : "T0163",
+		"Description" : "Perform cyber defense incident triage, to include determining scope, urgency, and potential impact, identifying the specific vulnerability, and making recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 1011,
+		"Code" : "T0164",
+		"Description" : "Perform cyber defense trend analysis and reporting."
+	},
+	{
+		"Id" : 1012,
+		"Code" : "T0170",
+		"Description" : "Perform initial, forensically sound collection of images and inspect to discern possible mitigation\/remediation on enterprise systems."
+	},
+	{
+		"Id" : 1013,
+		"Code" : "T0175",
+		"Description" : "Perform real-time cyber defense incident handling (e.g., forensic collections, intrusion correlation and tracking, threat analysis, and direct system remediation) tasks to support deployable Incident Response Teams (IRTs)."
+	},
+	{
+		"Id" : 1014,
+		"Code" : "T0214",
+		"Description" : "Receive and analyze network alerts from various sources within the enterprise and determine possible causes of such alerts."
+	},
+	{
+		"Id" : 1015,
+		"Code" : "T0233",
+		"Description" : "Track and document cyber defense incidents from initial detection through final resolution."
+	},
+	{
+		"Id" : 1016,
+		"Code" : "T0246",
+		"Description" : "Write and publish cyber defense techniques, guidance, and reports on incident findings to appropriate constituencies."
+	},
+	{
+		"Id" : 1017,
+		"Code" : "T0262",
+		"Description" : "Employ approved defense-in-depth principles and practices (e.g., defense-in-multiple places, layered defenses, security robustness)."
+	},
+	{
+		"Id" : 1018,
+		"Code" : "T0278",
+		"Description" : "Collect intrusion artifacts (e.g., source code, malware, Trojans) and use discovered data to enable mitigation of potential cyber defense incidents within the enterprise."
+	},
+	{
+		"Id" : 1019,
+		"Code" : "T0279",
+		"Description" : "Serve as technical expert and liaison to law enforcement personnel and explain incident details as required."
+	},
+	{
+		"Id" : 1020,
+		"Code" : "T0312",
+		"Description" : "Coordinate with intelligence analysts to correlate threat assessment data. "
+	},
+	{
+		"Id" : 1021,
+		"Code" : "T0395",
+		"Description" : "Write and publish after action reviews."
+	},
+	{
+		"Id" : 1022,
+		"Code" : "T0503",
+		"Description" : "Monitor external data sources (e.g., cyber defense vendor sites, Computer Emergency Response Teams, Security Focus) to maintain currency of cyber defense threat condition and determine which security issues may have an impact on the enterprise."
+	},
+	{
+		"Id" : 1023,
+		"Code" : "T0510",
+		"Description" : "Coordinate incident response functions."
+	},
+	{
+		"Id" : 1024,
+		"Code" : "T0041",
+		"Description" : "Coordinate and provide expert technical support to enterprise-wide cyber defense technicians to resolve cyber defense incidents."
+	},
+	{
+		"Id" : 1025,
+		"Code" : "T0047",
+		"Description" : "Correlate incident data to identify specific vulnerabilities and make recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 1026,
+		"Code" : "T0161",
+		"Description" : "Perform analysis of log files from a variety of sources (e.g., individual host logs, network traffic logs, firewall logs, and intrusion detection system [IDS] logs) to identify possible threats to network security."
+	},
+	{
+		"Id" : 1027,
+		"Code" : "T0163",
+		"Description" : "Perform cyber defense incident triage, to include determining scope, urgency, and potential impact, identifying the specific vulnerability, and making recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 1028,
+		"Code" : "T0164",
+		"Description" : "Perform cyber defense trend analysis and reporting."
+	},
+	{
+		"Id" : 1029,
+		"Code" : "T0170",
+		"Description" : "Perform initial, forensically sound collection of images and inspect to discern possible mitigation\/remediation on enterprise systems."
+	},
+	{
+		"Id" : 1030,
+		"Code" : "T0175",
+		"Description" : "Perform real-time cyber defense incident handling (e.g., forensic collections, intrusion correlation and tracking, threat analysis, and direct system remediation) tasks to support deployable Incident Response Teams (IRTs)."
+	},
+	{
+		"Id" : 1031,
+		"Code" : "T0214",
+		"Description" : "Receive and analyze network alerts from various sources within the enterprise and determine possible causes of such alerts."
+	},
+	{
+		"Id" : 1032,
+		"Code" : "T0233",
+		"Description" : "Track and document cyber defense incidents from initial detection through final resolution."
+	},
+	{
+		"Id" : 1033,
+		"Code" : "T0246",
+		"Description" : "Write and publish cyber defense techniques, guidance, and reports on incident findings to appropriate constituencies."
+	},
+	{
+		"Id" : 1034,
+		"Code" : "T0262",
+		"Description" : "Employ approved defense-in-depth principles and practices (e.g., defense-in-multiple places, layered defenses, security robustness)."
+	},
+	{
+		"Id" : 1035,
+		"Code" : "T0278",
+		"Description" : "Collect intrusion artifacts (e.g., source code, malware, Trojans) and use discovered data to enable mitigation of potential cyber defense incidents within the enterprise."
+	},
+	{
+		"Id" : 1036,
+		"Code" : "T0279",
+		"Description" : "Serve as technical expert and liaison to law enforcement personnel and explain incident details as required."
+	},
+	{
+		"Id" : 1037,
+		"Code" : "T0312",
+		"Description" : "Coordinate with intelligence analysts to correlate threat assessment data. "
+	},
+	{
+		"Id" : 1038,
+		"Code" : "T0395",
+		"Description" : "Write and publish after action reviews."
+	},
+	{
+		"Id" : 1039,
+		"Code" : "T0503",
+		"Description" : "Monitor external data sources (e.g., cyber defense vendor sites, Computer Emergency Response Teams, Security Focus) to maintain currency of cyber defense threat condition and determine which security issues may have an impact on the enterprise."
+	},
+	{
+		"Id" : 1040,
+		"Code" : "T0510",
+		"Description" : "Coordinate incident response functions."
+	},
+	{
+		"Id" : 1041,
+		"Code" : "T0174",
+		"Description" : "Perform needs analysis to determine opportunities for new and improved business process solutions."
+	},
+	{
+		"Id" : 1042,
+		"Code" : "T0196",
+		"Description" : "Provide advice on project costs, design concepts, or design changes."
+	},
+	{
+		"Id" : 1043,
+		"Code" : "T0199",
+		"Description" : "Provide enterprise cybersecurity and supply chain risk management guidance for development of the Continuity of Operations Plans."
+	},
+	{
+		"Id" : 1044,
+		"Code" : "T0207",
+		"Description" : "Provide ongoing optimization and problem-solving support."
+	},
+	{
+		"Id" : 1045,
+		"Code" : "T0208",
+		"Description" : "Provide recommendations for possible improvements and upgrades."
+	},
+	{
+		"Id" : 1046,
+		"Code" : "T0220",
+		"Description" : "Resolve conflicts in laws, regulations, policies, standards, or procedures."
+	},
+	{
+		"Id" : 1047,
+		"Code" : "T0223",
+		"Description" : "Review or conduct audits of information technology (IT) programs and projects."
+	},
+	{
+		"Id" : 1048,
+		"Code" : "T0256",
+		"Description" : "Evaluate the effectiveness of procurement function in addressing information security requirements and supply chain risks through procurement activities and recommend improvements."
+	},
+	{
+		"Id" : 1049,
+		"Code" : "T0273",
+		"Description" : "Develop and document supply chain risks for critical system elements, as appropriate."
+	},
+	{
+		"Id" : 1050,
+		"Code" : "T0277",
+		"Description" : "Ensure that all acquisitions, procurements, and outsourcing efforts address information security requirements consistent with organization goals."
+	},
+	{
+		"Id" : 1051,
+		"Code" : "T0340",
+		"Description" : "Act as a primary stakeholder in the underlying information technology (IT) operational processes and functions that support the service, provide direction and monitor all significant activities so the service is delivered successfully."
+	},
+	{
+		"Id" : 1052,
+		"Code" : "T0354",
+		"Description" : "Coordinate and manage the overall service provided to a customer end-to-end."
+	},
+	{
+		"Id" : 1053,
+		"Code" : "T0370",
+		"Description" : "Ensure that appropriate Service-Level Agreements (SLAs) and underpinning contracts have been defined that clearly set out for the customer a description of the service and the measures for monitoring the service."
+	},
+	{
+		"Id" : 1054,
+		"Code" : "T0377",
+		"Description" : "Gather feedback on customer satisfaction and internal service performance to foster continual improvement."
+	},
+	{
+		"Id" : 1055,
+		"Code" : "T0379",
+		"Description" : "Manage the internal relationship with information technology (IT) process owners supporting the service, assisting with the definition and agreement of Operating Level Agreements (OLAs)."
+	},
+	{
+		"Id" : 1056,
+		"Code" : "T0389",
+		"Description" : "Review service performance reports identifying any significant issues and variances, initiating, where necessary, corrective actions and ensuring that all outstanding issues are followed up."
+	},
+	{
+		"Id" : 1057,
+		"Code" : "T0394",
+		"Description" : "Work with other service managers and product owners to balance and prioritize services to meet overall customer requirements, constraints, and objectives."
+	},
+	{
+		"Id" : 1058,
+		"Code" : "T0407",
+		"Description" : "Participate in the acquisition process as necessary."
+	},
+	{
+		"Id" : 1059,
+		"Code" : "T0412",
+		"Description" : "Conduct import\/export reviews for acquiring systems and software."
+	},
+	{
+		"Id" : 1060,
+		"Code" : "T0414",
+		"Description" : "Develop supply chain, system, network, performance, and cybersecurity requirements."
+	},
+	{
+		"Id" : 1061,
+		"Code" : "T0415",
+		"Description" : "Ensure that supply chain, system, network, performance, and cybersecurity requirements are included in contract language and delivered."
+	},
+	{
+		"Id" : 1062,
+		"Code" : "T0481",
+		"Description" : "Identify and address cyber workforce planning and management issues (e.g. recruitment, retention, and training)."
+	},
+	{
+		"Id" : 1063,
+		"Code" : "T0493",
+		"Description" : "Lead and oversee budget, staffing, and contracting."
+	},
+	{
+		"Id" : 1064,
+		"Code" : "T0551",
+		"Description" : "Draft and publish supply chain security and risk management documents."
+	},
+	{
+		"Id" : 1065,
+		"Code" : "T0041",
+		"Description" : "Coordinate and provide expert technical support to enterprise-wide cyber defense technicians to resolve cyber defense incidents."
+	},
+	{
+		"Id" : 1066,
+		"Code" : "T0047",
+		"Description" : "Correlate incident data to identify specific vulnerabilities and make recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 1067,
+		"Code" : "T0161",
+		"Description" : "Perform analysis of log files from a variety of sources (e.g., individual host logs, network traffic logs, firewall logs, and intrusion detection system [IDS] logs) to identify possible threats to network security."
+	},
+	{
+		"Id" : 1068,
+		"Code" : "T0163",
+		"Description" : "Perform cyber defense incident triage, to include determining scope, urgency, and potential impact, identifying the specific vulnerability, and making recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 1069,
+		"Code" : "T0164",
+		"Description" : "Perform cyber defense trend analysis and reporting."
+	},
+	{
+		"Id" : 1070,
+		"Code" : "T0170",
+		"Description" : "Perform initial, forensically sound collection of images and inspect to discern possible mitigation\/remediation on enterprise systems."
+	},
+	{
+		"Id" : 1071,
+		"Code" : "T0175",
+		"Description" : "Perform real-time cyber defense incident handling (e.g., forensic collections, intrusion correlation and tracking, threat analysis, and direct system remediation) tasks to support deployable Incident Response Teams (IRTs)."
+	},
+	{
+		"Id" : 1072,
+		"Code" : "T0214",
+		"Description" : "Receive and analyze network alerts from various sources within the enterprise and determine possible causes of such alerts."
+	},
+	{
+		"Id" : 1073,
+		"Code" : "T0233",
+		"Description" : "Track and document cyber defense incidents from initial detection through final resolution."
+	},
+	{
+		"Id" : 1074,
+		"Code" : "T0246",
+		"Description" : "Write and publish cyber defense techniques, guidance, and reports on incident findings to appropriate constituencies."
+	},
+	{
+		"Id" : 1075,
+		"Code" : "T0262",
+		"Description" : "Employ approved defense-in-depth principles and practices (e.g., defense-in-multiple places, layered defenses, security robustness)."
+	},
+	{
+		"Id" : 1076,
+		"Code" : "T0278",
+		"Description" : "Collect intrusion artifacts (e.g., source code, malware, Trojans) and use discovered data to enable mitigation of potential cyber defense incidents within the enterprise."
+	},
+	{
+		"Id" : 1077,
+		"Code" : "T0279",
+		"Description" : "Serve as technical expert and liaison to law enforcement personnel and explain incident details as required."
+	},
+	{
+		"Id" : 1078,
+		"Code" : "T0312",
+		"Description" : "Coordinate with intelligence analysts to correlate threat assessment data. "
+	},
+	{
+		"Id" : 1079,
+		"Code" : "T0395",
+		"Description" : "Write and publish after action reviews."
+	},
+	{
+		"Id" : 1080,
+		"Code" : "T0503",
+		"Description" : "Monitor external data sources (e.g., cyber defense vendor sites, Computer Emergency Response Teams, Security Focus) to maintain currency of cyber defense threat condition and determine which security issues may have an impact on the enterprise."
+	},
+	{
+		"Id" : 1081,
+		"Code" : "T0510",
+		"Description" : "Coordinate incident response functions."
+	},
+	{
+		"Id" : 1082,
+		"Code" : "T0010",
+		"Description" : "Analyze organization's cyber defense policies and configurations and evaluate compliance with regulations and organizational directives."
+	},
+	{
+		"Id" : 1083,
+		"Code" : "T0028",
+		"Description" : "Conduct and\/or support authorized penetration testing on enterprise network assets."
+	},
+	{
+		"Id" : 1084,
+		"Code" : "T0072",
+		"Description" : "Develop methods to monitor and measure risk, compliance, and assurance efforts."
+	},
+	{
+		"Id" : 1085,
+		"Code" : "T0138",
+		"Description" : "Maintain deployable cyber defense audit toolkit (e.g., specialized cyber defense software and hardware) to support cyber defense audit missions."
+	},
+	{
+		"Id" : 1086,
+		"Code" : "T0142",
+		"Description" : "Maintain knowledge of applicable cyber defense policies, regulations, and compliance documents specifically related to cyber defense auditing."
+	},
+	{
+		"Id" : 1087,
+		"Code" : "T0188",
+		"Description" : "Prepare audit reports that identify technical and procedural findings, and provide recommended remediation strategies\/solutions."
+	},
+	{
+		"Id" : 1088,
+		"Code" : "T0252",
+		"Description" : "Conduct required reviews as appropriate within environment (e.g., Technical Surveillance, Countermeasure Reviews [TSCM], TEMPEST countermeasure reviews)."
+	},
+	{
+		"Id" : 1089,
+		"Code" : "T0549",
+		"Description" : "Perform technical (evaluation of technology) and nontechnical (evaluation of people and operations) risk and vulnerability assessments of relevant technology focus areas (e.g., local computing environment, network and infrastructure, enclave boundary, supporting infrastructure, and applications)."
+	},
+	{
+		"Id" : 1090,
+		"Code" : "T0550",
+		"Description" : "Make recommendations regarding the selection of cost-effective security controls to mitigate risk (e.g., protection of information, systems and processes)."
+	},
+	{
+		"Id" : 1091,
+		"Code" : "T0010",
+		"Description" : "Analyze organization's cyber defense policies and configurations and evaluate compliance with regulations and organizational directives."
+	},
+	{
+		"Id" : 1092,
+		"Code" : "T0028",
+		"Description" : "Conduct and\/or support authorized penetration testing on enterprise network assets."
+	},
+	{
+		"Id" : 1093,
+		"Code" : "T0072",
+		"Description" : "Develop methods to monitor and measure risk, compliance, and assurance efforts."
+	},
+	{
+		"Id" : 1094,
+		"Code" : "T0138",
+		"Description" : "Maintain deployable cyber defense audit toolkit (e.g., specialized cyber defense software and hardware) to support cyber defense audit missions."
+	},
+	{
+		"Id" : 1095,
+		"Code" : "T0142",
+		"Description" : "Maintain knowledge of applicable cyber defense policies, regulations, and compliance documents specifically related to cyber defense auditing."
+	},
+	{
+		"Id" : 1096,
+		"Code" : "T0188",
+		"Description" : "Prepare audit reports that identify technical and procedural findings, and provide recommended remediation strategies\/solutions."
+	},
+	{
+		"Id" : 1097,
+		"Code" : "T0252",
+		"Description" : "Conduct required reviews as appropriate within environment (e.g., Technical Surveillance, Countermeasure Reviews [TSCM], TEMPEST countermeasure reviews)."
+	},
+	{
+		"Id" : 1098,
+		"Code" : "T0549",
+		"Description" : "Perform technical (evaluation of technology) and nontechnical (evaluation of people and operations) risk and vulnerability assessments of relevant technology focus areas (e.g., local computing environment, network and infrastructure, enclave boundary, supporting infrastructure, and applications)."
+	},
+	{
+		"Id" : 1099,
+		"Code" : "T0550",
+		"Description" : "Make recommendations regarding the selection of cost-effective security controls to mitigate risk (e.g., protection of information, systems and processes)."
+	},
+	{
+		"Id" : 1100,
+		"Code" : "T0041",
+		"Description" : "Coordinate and provide expert technical support to enterprise-wide cyber defense technicians to resolve cyber defense incidents."
+	},
+	{
+		"Id" : 1101,
+		"Code" : "T0047",
+		"Description" : "Correlate incident data to identify specific vulnerabilities and make recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 1102,
+		"Code" : "T0161",
+		"Description" : "Perform analysis of log files from a variety of sources (e.g., individual host logs, network traffic logs, firewall logs, and intrusion detection system [IDS] logs) to identify possible threats to network security."
+	},
+	{
+		"Id" : 1103,
+		"Code" : "T0163",
+		"Description" : "Perform cyber defense incident triage, to include determining scope, urgency, and potential impact, identifying the specific vulnerability, and making recommendations that enable expeditious remediation."
+	},
+	{
+		"Id" : 1104,
+		"Code" : "T0164",
+		"Description" : "Perform cyber defense trend analysis and reporting."
+	},
+	{
+		"Id" : 1105,
+		"Code" : "T0170",
+		"Description" : "Perform initial, forensically sound collection of images and inspect to discern possible mitigation\/remediation on enterprise systems."
+	},
+	{
+		"Id" : 1106,
+		"Code" : "T0175",
+		"Description" : "Perform real-time cyber defense incident handling (e.g., forensic collections, intrusion correlation and tracking, threat analysis, and direct system remediation) tasks to support deployable Incident Response Teams (IRTs)."
+	},
+	{
+		"Id" : 1107,
+		"Code" : "T0214",
+		"Description" : "Receive and analyze network alerts from various sources within the enterprise and determine possible causes of such alerts."
+	},
+	{
+		"Id" : 1108,
+		"Code" : "T0233",
+		"Description" : "Track and document cyber defense incidents from initial detection through final resolution."
+	},
+	{
+		"Id" : 1109,
+		"Code" : "T0246",
+		"Description" : "Write and publish cyber defense techniques, guidance, and reports on incident findings to appropriate constituencies."
+	},
+	{
+		"Id" : 1110,
+		"Code" : "T0262",
+		"Description" : "Employ approved defense-in-depth principles and practices (e.g., defense-in-multiple places, layered defenses, security robustness)."
+	},
+	{
+		"Id" : 1111,
+		"Code" : "T0278",
+		"Description" : "Collect intrusion artifacts (e.g., source code, malware, Trojans) and use discovered data to enable mitigation of potential cyber defense incidents within the enterprise."
+	},
+	{
+		"Id" : 1112,
+		"Code" : "T0279",
+		"Description" : "Serve as technical expert and liaison to law enforcement personnel and explain incident details as required."
+	},
+	{
+		"Id" : 1113,
+		"Code" : "T0312",
+		"Description" : "Coordinate with intelligence analysts to correlate threat assessment data. "
+	},
+	{
+		"Id" : 1114,
+		"Code" : "T0395",
+		"Description" : "Write and publish after action reviews."
+	},
+	{
+		"Id" : 1115,
+		"Code" : "T0503",
+		"Description" : "Monitor external data sources (e.g., cyber defense vendor sites, Computer Emergency Response Teams, Security Focus) to maintain currency of cyber defense threat condition and determine which security issues may have an impact on the enterprise."
+	},
+	{
+		"Id" : 1116,
+		"Code" : "T0510",
+		"Description" : "Coordinate incident response functions."
+	}
+]}
