@@ -1,5 +1,5 @@
 {
-"select * from WorkTask wt ": [
+"WorkTask": [
 	{
 		"Id" : 1,
 		"Code" : "T0001",
